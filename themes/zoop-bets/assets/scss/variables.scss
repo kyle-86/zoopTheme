@@ -1,0 +1,45 @@
+$primary: #222b40;
+$secondary: #f8b940;
+$success: #198754;
+$info: #0dcaf0;
+$warning: #ffc107;
+$danger: #dc3545;
+$light: #f8f9fa;
+$dark: #212529;
+
+$body-bg: #f8f9fa;
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
+
+$font-family-sans-serif: 'Poppins', sans-serif;
+$font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+// stylelint-enable value-keyword-case
+$font-family-base: $font-family-sans-serif;
+$font-family-code: $font-family-monospace;
+
+$headings-font-family: 'Poppins', sans-serif;
+
+$font-size-root: null;
+$font-size-base: 1rem; // Assumes the browser default, typically `16px`
+$font-size-sm: $font-size-base * .875;
+$font-size-lg: $font-size-base * 1.25;
+$small-font-size: .875rem;
+
+$line-height-base: 1.45;
+$line-height-sm: 1.25;
+$line-height-lg: 2;
+
+$spaceamounts: (5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 75, 100); // Adjust this to include the pixel amounts you need.
+$sides: (top, bottom, left, right); // Leave this variable alone
+
+@each $space in $spaceamounts {
+  @each $side in $sides {
+    .m-#{str-slice($side, 0, 1)}-#{$space} {
+      margin-#{$side}: #{$space}px !important;
+    }
+  
+    .p-#{str-slice($side, 0, 1)}-#{$space} {
+      padding-#{$side}: #{$space}px !important;
+    }
+  }
+}

@@ -1,0 +1,52 @@
+.wpuf-theme-style {
+  .wpuf-el  {
+    padding: 0;
+  }
+
+  .wpuf-column {
+    
+    .wpuf-column-inner-fields {
+      padding: 0 !important;
+
+      &.column-1 {
+        padding-right: 12px !important;
+      }
+
+      &.column-2 {
+        padding-left: 12px !important;
+      }
+    }
+  }
+  input[type="text"], input[type="email"] {
+    outline: none; 
+    background: transparent;
+    border:0;
+    border-bottom: 2px solid $secondary;
+    color: $secondary;
+    padding-bottom: 15px;
+
+    &::placeholder {
+      color: $secondary;
+    }
+  }
+  textarea {
+    width: 100%;
+    outline: none; 
+    background: transparent;
+    border:0;
+    border-bottom: 2px solid $secondary;
+    color: $secondary;
+
+    &::placeholder {
+      color: $secondary;
+    }
+  }
+
+  .wpuf-error-msg {
+    font-size: 14px;
+  }
+
+  .wpuf-submit {
+    padding: 0;
+  }
+}

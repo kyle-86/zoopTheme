@@ -1,0 +1,1 @@
+[29-Oct-2023 15:11:52 UTC] PHP Deprecated:  Function WP_User->id was called with an argument that is <strong>deprecated</strong> since version 2.1.0! Use <code>WP_User->ID</code> instead. in C:\xampp\htdocs\zoop\wp-includes\functions.php on line 5737

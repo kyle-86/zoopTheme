@@ -1,0 +1,69 @@
+.main-menu {
+  background-color: $primary;
+  position: fixed;
+  width: 100%;
+
+  .header-nav {
+    display: flex;
+    justify-content: space-between;
+
+    .logo-header {
+      margin-bottom: 15px;
+      margin-top: 15px;
+
+      a {
+        text-decoration: none;
+        color: #9ca0aa;
+
+        span {
+          font-weight: 600;
+          text-transform: uppercase;
+          color: #fff;
+
+          &:first-of-type {
+            background: #fff;
+            color: $primary;
+            padding: 5px;
+            margin-right: -3px;
+          }
+        }
+
+        .site-logo {
+          width: 32px;
+          margin-right: 10px;
+        }
+      }
+    }
+
+    .menu-header {
+      ul {
+        list-style: none;
+        padding-left: 0;
+        display: flex;
+        margin-bottom: 0;
+
+        li {
+          margin-left: 10px;
+          margin-right: 10px;
+
+          a {
+            font-size: 14px;
+            line-height: 18px;
+            text-decoration: none;
+            color: #9ca0aa;
+
+            &:hover {
+              color: $secondary;
+            }
+          }
+
+          &.current_page_item {
+            a {
+              color: $secondary;
+            }
+          }
+        }
+      }
+    }
+  }
+}

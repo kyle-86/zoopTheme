@@ -1,0 +1,152 @@
+.results__block {
+  margin-top: 40px;
+  margin-bottom: 50px;
+  
+  .box-container {
+    margin-bottom: 20px;
+  }
+
+  .time-period-toggle {
+    border: 1px solid #d7d7d7;
+    border-radius: 4px;
+    display: flex;
+    justify-content: space-around;
+
+    .eachPeriod {
+      text-align: center;
+      position: relative;
+      width: 100%;
+
+      input {
+        display: none;
+
+        &[type="radio"]:checked+label {
+          /* Add your styling here */
+          color: black;
+          /* For example, change the text color to blue */
+          font-weight: bold;
+          /* Make the text bold */
+        }
+
+        /* Style for the unselected labels */
+        &[type="radio"]+label {
+          /* Add your styling here */
+          color: black;
+          /* Default text color */
+          font-weight: normal;
+          /* Default font weight */
+
+          &:hover {
+            font-weight: bold;
+          }
+        }
+      }
+
+      label {
+        font-size: 12px;
+        cursor: pointer;
+      }
+
+      &:after {
+        content: "";
+        height: 100%;
+        width: 1px;
+        position: absolute;
+        top: 0;
+        background-color: #d7d7d7;
+        right: 0px;
+      }
+
+      &:last-child {
+        &:after {
+          content: none;
+        }
+      }
+    }
+  }
+  .totalWiningsBlock {
+    .totalWinings {
+      &.negative-profit {
+        color: #a12323;
+      }
+    }
+  }
+
+  .dataTables_wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+    &:after {
+      content: none;
+    }
+
+    .dataTables_paginate {
+      .paginate_button {
+        &:hover {
+          background: $primary;
+          color: #ffffff !important;
+        }
+
+        &:active {
+          background: $primary;
+          color: #ffffff !important;
+        }
+      }
+    }
+
+    table {
+      margin-top: 30px;
+      margin-bottom: 30px;
+      border-collapse: collapse;
+  
+      &.dataTable.no-footer {
+        border: 0;
+      }
+
+      th,
+      td {
+        border: 1px solid #ddd;
+        padding: 12px 24px;
+        text-align: left;
+      }
+
+      th {
+        background-color: #f2f2f2;
+    
+        input {
+          width: 90px;
+          font-size: 14px;
+        }
+      }
+
+      tr {
+        background-color: #ffffff;
+    
+        td {
+          font-size: $small-font-size;
+          line-height: normal;
+    
+          &.sorting_1 {
+            box-shadow: none !important;
+          }
+        }
+    
+        &.even {
+          background: $primary;
+          color: white;
+        }
+      }
+
+    }
+  }
+
+  @media screen and (max-width: 600px) {
+
+    th,
+    td {
+      display: block;
+      width: 100%;
+    }
+  }
+}

@@ -1,0 +1,2856 @@
+Array
+(
+    [user_id] => 1
+    [bet_teams] => Ajoie vs Langnau Tigers
+    [bet_league] => Switzerland - NationalLeague
+    [bet_id] => 363
+    [bet_agency] => bet365
+    [betAmount] => 13.63
+    [bet_betTeam] => Ajoie
+    [bet_odds] => 2.45
+    [bet_value] => 3.81
+    [bet_sport] => Hockey
+    [bet_refrenceId] => Ajoie_Langnau_Tigers_060120241X2
+    [bet_eventTime] => Jan 25th 2024 at 04:45 AM
+    [bet_line] => 1X2
+    [bet_betType] => 1X2
+)
+Array
+(
+    [user_id] => 1
+    [bet_teams] => Ajoie vs Langnau Tigers
+    [bet_league] => Switzerland - NationalLeague
+    [bet_id] => 363
+    [bet_agency] => bet365
+    [betAmount] => 3333
+    [bet_betTeam] => Ajoie
+    [bet_odds] => 2.45
+    [bet_value] => 3.81
+    [bet_sport] => Hockey
+    [bet_refrenceId] => Ajoie_Langnau_Tigers_060120241X2
+    [bet_eventTime] => Jan 25th 2024 at 04:45 AM
+    [bet_line] => 1X2
+    [bet_betType] => 1X2
+)
+Array
+(
+    [user_id] => 1
+    [bet_teams] => Ajoie vs Langnau Tigers
+    [bet_league] => Switzerland - NationalLeague
+    [bet_id] => 363
+    [bet_agency] => bet365
+    [betAmount] => 6623
+    [bet_betTeam] => Ajoie
+    [bet_odds] => 2.45
+    [bet_value] => 3.81
+    [bet_sport] => Hockey
+    [bet_refrenceId] => Ajoie_Langnau_Tigers_060120241X2
+    [bet_eventTime] => Jan 25th 2024 at 04:45 AM
+    [bet_line] => 1X2
+    [bet_betType] => 1X2
+)
+Array
+(
+    [user_id] => 1
+    [bet_teams] => Ajoie vs Langnau Tigers
+    [bet_league] => Switzerland - NationalLeague
+    [bet_id] => 363
+    [bet_agency] => bet365
+    [betAmount] => 11111
+    [bet_betTeam] => Ajoie
+    [bet_odds] => 2.45
+    [bet_value] => 3.81
+    [bet_sport] => Hockey
+    [bet_refrenceId] => Ajoie_Langnau_Tigers_060120241X2
+    [bet_eventTime] => Jan 25th 2024 at 04:45 AM
+    [bet_line] => 1X2
+    [bet_betType] => 1X2
+)
+Array
+(
+    [user_id] => 1
+    [bet_teams] => Ajoie vs Langnau Tigers
+    [bet_league] => Switzerland - NationalLeague
+    [bet_id] => 363
+    [bet_agency] => bet365
+    [betAmount] => 1111
+    [bet_betTeam] => Ajoie
+    [bet_odds] => 2.45
+    [bet_value] => 3.81
+    [bet_sport] => Hockey
+    [bet_refrenceId] => Ajoie_Langnau_Tigers_060120241X2
+    [bet_eventTime] => Jan 25th 2024 at 04:45 AM
+    [bet_line] => 1X2
+    [bet_betType] => 1X2
+)
+Array
+(
+    [user_id] => 1
+    [bet_teams] => Ajoie vs Langnau Tigers
+    [bet_league] => Switzerland - NationalLeague
+    [bet_id] => 389
+    [bet_agency] => bet365
+    [betAmount] => 11111
+    [bet_betTeam] => Ajoie
+    [bet_odds] => 2.45
+    [bet_value] => 3.81
+    [bet_sport] => Hockey
+    [bet_refrenceId] => Ajoie_Langnau_Tigers_060120241X2
+    [bet_eventTime] => Jan 25th 2024 at 04:45 AM
+    [bet_line] => 1X2
+    [bet_betType] => 1X2
+)
+Array
+(
+    [user_id] => 1
+    [bet_teams] => Ajoie vs Langnau Tigers
+    [bet_league] => Switzerland - NationalLeague
+    [bet_id] => 391
+    [bet_agency] => bet365
+    [betAmount] => 133232
+    [bet_betTeam] => Ajoie
+    [bet_odds] => 2.45
+    [bet_value] => 3.81
+    [bet_sport] => Hockey
+    [bet_refrenceId] => Ajoie_Langnau_Tigers_060120241X2
+    [bet_eventTime] => Jan 25th 2024 at 04:45 AM
+    [bet_line] => 1X2
+    [bet_betType] => 1X2
+)
+Array
+(
+    [user_id] => 0
+    [bet_teams] => Beijing vs Nanjing Tongxi
+    [bet_league] => China - CBA
+    [bet_id] => 5
+    [bet_agency] => bet365
+    [betAmount] => 18.17
+    [bet_betTeam] => Nanjing Tongxi
+    [bet_odds] => 5.25
+    [bet_value] => 13.39
+    [bet_sport] => Basketball
+    [bet_refrenceId] => Beijing_Nanjing_Tongxi_08112023Home_Away
+    [bet_eventTime] => Nov 8th 2023 at 09:35 PM
+    [bet_line] => To Win
+    [bet_betType] => Home/Away
+)
+Array
+(
+    [user_id] => 1
+    [bet_teams] => Beijing vs Nanjing Tongxi
+    [bet_league] => China - CBA
+    [bet_id] => 396
+    [bet_agency] => bet365
+    [betAmount] => 5899
+    [bet_betTeam] => Nanjing Tongxi
+    [bet_odds] => 5.25
+    [bet_value] => 13.39
+    [bet_sport] => Basketball
+    [bet_refrenceId] => Beijing_Nanjing_Tongxi_08112023Home_Away
+    [bet_eventTime] => Jan 24th 2024 at 09:35 PM
+    [bet_line] => To Win
+    [bet_betType] => Home/Away
+)
+Array
+(
+    [user_id] => 1
+    [bet_teams] => Beijing vs Nanjing Tongxi
+    [bet_league] => China - CBA
+    [bet_id] => 396
+    [bet_agency] => bet365
+    [betAmount] => 3333
+    [bet_betTeam] => Nanjing Tongxi
+    [bet_odds] => 5.25
+    [bet_value] => 13.39
+    [bet_sport] => Basketball
+    [bet_refrenceId] => Beijing_Nanjing_Tongxi_08112023Home_Away
+    [bet_eventTime] => Jan 24th 2024 at 09:35 PM
+    [bet_line] => To Win
+    [bet_betType] => Home/Away
+)
+Array
+(
+    [user_id] => 1
+    [bet_teams] => Ajoie vs Langnau Tigers
+    [bet_league] => Switzerland - NationalLeague
+    [bet_id] => 391
+    [bet_agency] => bet365
+    [betAmount] => 5455
+    [bet_betTeam] => Ajoie
+    [bet_odds] => 2.45
+    [bet_value] => 3.81
+    [bet_sport] => Hockey
+    [bet_refrenceId] => Ajoie_Langnau_Tigers_060120241X2
+    [bet_eventTime] => Jan 25th 2024 at 04:45 AM
+    [bet_line] => 1X2
+    [bet_betType] => 1X2
+)
+Array
+(
+    [user_id] => 1
+    [bet_teams] => Ajoie vs Langnau Tigers
+    [bet_league] => Switzerland - NationalLeague
+    [bet_id] => 391
+    [bet_agency] => bet365
+    [betAmount] => 5455
+    [bet_betTeam] => Ajoie
+    [bet_odds] => 2.45
+    [bet_value] => 3.81
+    [bet_sport] => Hockey
+    [bet_refrenceId] => Ajoie_Langnau_Tigers_060120241X2
+    [bet_eventTime] => Jan 25th 2024 at 04:45 AM
+    [bet_line] => 1X2
+    [bet_betType] => 1X2
+)
+Array
+(
+    [user_id] => 1
+    [bet_teams] => Beijing vs Nanjing Tongxi
+    [bet_league] => China - CBA
+    [bet_id] => 396
+    [bet_agency] => bet365
+    [betAmount] => 999
+    [bet_betTeam] => Nanjing Tongxi
+    [bet_odds] => 5.25
+    [bet_value] => 13.39
+    [bet_sport] => Basketball
+    [bet_refrenceId] => Beijing_Nanjing_Tongxi_08112023Home_Away
+    [bet_eventTime] => Jan 24th 2024 at 09:35 PM
+    [bet_line] => To Win
+    [bet_betType] => Home/Away
+)
+Array
+(
+    [user_id] => 1
+    [bet_teams] => Beijing vs Nanjing Tongxi
+    [bet_league] => China - CBA
+    [bet_id] => 396
+    [bet_agency] => bet365
+    [betAmount] => 5455
+    [bet_betTeam] => Nanjing Tongxi
+    [bet_odds] => 5.25
+    [bet_value] => 13.39
+    [bet_sport] => Basketball
+    [bet_refrenceId] => Beijing_Nanjing_Tongxi_08112023Home_Away
+    [bet_eventTime] => Jan 24th 2024 at 09:35 PM
+    [bet_line] => To Win
+    [bet_betType] => Home/Away
+)
+Array
+(
+    [user_id] => 1
+    [bet_teams] => Beijing vs Nanjing Tongxi
+    [bet_league] => China - CBA
+    [bet_id] => 396
+    [bet_agency] => bet365
+    [betAmount] => 848484
+    [bet_betTeam] => Nanjing Tongxi
+    [bet_odds] => 5.25
+    [bet_value] => 13.39
+    [bet_sport] => Basketball
+    [bet_refrenceId] => Beijing_Nanjing_Tongxi_08112023Home_Away
+    [bet_eventTime] => Jan 24th 2024 at 09:35 PM
+    [bet_line] => To Win
+    [bet_betType] => Home/Away
+)
+Array
+(
+    [user_id] => 1
+    [bet_teams] => Ajoie vs Langnau Tigers
+    [bet_league] => Switzerland - NationalLeague
+    [bet_id] => 391
+    [bet_agency] => bet365
+    [betAmount] => 68978
+    [bet_betTeam] => Ajoie
+    [bet_odds] => 2.45
+    [bet_value] => 3.81
+    [bet_sport] => Hockey
+    [bet_refrenceId] => Ajoie_Langnau_Tigers_060120241X2
+    [bet_eventTime] => Jan 25th 2024 at 04:45 AM
+    [bet_line] => 1X2
+    [bet_betType] => 1X2
+)
+Array
+(
+    [user_id] => 1
+    [bet_teams] => Ajoie vs Langnau Tigers
+    [bet_league] => Switzerland - NationalLeague
+    [bet_id] => 363
+    [bet_agency] => bet365
+    [betAmount] => 5455
+    [bet_betTeam] => Ajoie
+    [bet_odds] => 2.45
+    [bet_value] => 3.81
+    [bet_sport] => Hockey
+    [bet_refrenceId] => Ajoie_Langnau_Tigers_060120241X2
+    [bet_eventTime] => Jan 25th 2024 at 04:45 AM
+    [bet_line] => 1X2
+    [bet_betType] => 1X2
+)
+Array
+(
+    [user_id] => 1
+    [bet_teams] => Beijing vs Nanjing Tongxi
+    [bet_league] => China - CBA
+    [bet_id] => 396
+    [bet_agency] => bet365
+    [betAmount] => 848484
+    [bet_betTeam] => Nanjing Tongxi
+    [bet_odds] => 5.25
+    [bet_value] => 13.39
+    [bet_sport] => Basketball
+    [bet_refrenceId] => Beijing_Nanjing_Tongxi_08112023Home_Away
+    [bet_eventTime] => Jan 24th 2024 at 09:35 PM
+    [bet_line] => To Win
+    [bet_betType] => Home/Away
+)
+Array
+(
+    [user_id] => 1
+    [bet_teams] => Ajoie vs Langnau Tigers
+    [bet_league] => Switzerland - NationalLeague
+    [bet_id] => 363
+    [bet_agency] => bet365
+    [betAmount] => 98
+    [bet_betTeam] => Ajoie
+    [bet_odds] => 2.45
+    [bet_value] => 3.81
+    [bet_sport] => Hockey
+    [bet_refrenceId] => Ajoie_Langnau_Tigers_060120241X2
+    [bet_eventTime] => Jan 25th 2024 at 04:45 AM
+    [bet_line] => 1X2
+    [bet_betType] => 1X2
+)
+Array
+(
+    [user_id] => 1
+    [bet_teams] => Ajoie vs Langnau Tigers
+    [bet_league] => Switzerland - NationalLeague
+    [bet_id] => 363
+    [bet_agency] => bet365
+    [betAmount] => 1111
+    [bet_betTeam] => Ajoie
+    [bet_odds] => 2.45
+    [bet_value] => 3.81
+    [bet_sport] => Hockey
+    [bet_refrenceId] => Ajoie_Langnau_Tigers_060120241X2
+    [bet_eventTime] => Jan 25th 2024 at 04:45 AM
+    [bet_line] => 1X2
+    [bet_betType] => 1X2
+)
+Array
+(
+    [user_id] => 1
+    [bet_teams] => Beijing vs Nanjing Tongxi
+    [bet_league] => China - CBA
+    [bet_id] => 5
+    [bet_agency] => bet365
+    [betAmount] => 2222
+    [bet_betTeam] => Nanjing Tongxi
+    [bet_odds] => 5.25
+    [bet_value] => 13.39
+    [bet_sport] => Basketball
+    [bet_refrenceId] => Beijing_Nanjing_Tongxi_08112023Home_Away
+    [bet_eventTime] => Nov 8th 2023 at 09:35 PM
+    [bet_line] => To Win
+    [bet_betType] => Home/Away
+)
+Array
+(
+    [user_id] => 1
+    [bet_teams] => Beijing vs Nanjing Tongxi
+    [bet_league] => China - CBA
+    [bet_id] => 5
+    [bet_agency] => bet365
+    [betAmount] => 18.17
+    [bet_betTeam] => Nanjing Tongxi
+    [bet_odds] => 5.25
+    [bet_value] => 13.39
+    [bet_sport] => Basketball
+    [bet_refrenceId] => Beijing_Nanjing_Tongxi_08112023Home_Away
+    [bet_eventTime] => Nov 8th 2023 at 09:35 PM
+    [bet_line] => To Win
+    [bet_betType] => Home/Away
+)
+Array
+(
+    [user_id] => 1
+    [bet_teams] => Beijing vs Nanjing Tongxi
+    [bet_league] => China - CBA
+    [bet_id] => 5
+    [bet_agency] => bet365
+    [betAmount] => 18.17
+    [bet_betTeam] => Nanjing Tongxi
+    [bet_odds] => 5.25
+    [bet_value] => 13.39
+    [bet_sport] => Basketball
+    [bet_refrenceId] => Beijing_Nanjing_Tongxi_08112023Home_Away
+    [bet_eventTime] => Nov 8th 2023 at 09:35 PM
+    [bet_line] => To Win
+    [bet_betType] => Home/Away
+)
+Array
+(
+    [user_id] => 1
+    [bet_teams] => Shandong vs Guangdong
+    [bet_league] => China - CBA
+    [bet_id] => 6
+    [bet_agency] => bet365
+    [betAmount] => 49.53
+    [bet_betTeam] => Shandong
+    [bet_odds] => 4.1
+    [bet_value] => 23.49
+    [bet_sport] => Basketball
+    [bet_refrenceId] => Shandong_Guangdong_08112023Home_Away
+    [bet_eventTime] => Nov 8th 2023 at 09:35 PM
+    [bet_line] => To Win
+    [bet_betType] => Home/Away
+)
+Array
+(
+    [user_id] => 1
+    [bet_teams] => Dallas Mavericks vs Toronto Raptors
+    [bet_league] => USA - NBA
+    [bet_id] => 21
+    [bet_agency] => bet365
+    [betAmount] => 9.33
+    [bet_betTeam] => Toronto Raptors
+    [bet_odds] => 2.55
+    [bet_value] => 2.82
+    [bet_sport] => Basketball
+    [bet_refrenceId] => Dallas_Mavericks_Toronto_Raptors_09112023Home_Away
+    [bet_eventTime] => Nov 9th 2023 at 11:30 AM
+    [bet_line] => To Win
+    [bet_betType] => Home/Away
+)
+Array
+(
+    [user_id] => 1
+    [bet_teams] => Real Madrid vs Braga
+    [bet_league] => Europe - ChampionsLeague
+    [bet_id] => 35
+    [bet_agency] => bet365
+    [betAmount] => 18.93
+    [bet_betTeam] => Real Madrid
+    [bet_odds] => 1.22
+    [bet_value] => 0.83
+    [bet_sport] => Football
+    [bet_refrenceId] => Real_Madrid_Braga_09112023Home_Away
+    [bet_eventTime] => Nov 9th 2023 at 06:00 AM
+    [bet_line] => To Win
+    [bet_betType] => 1X2
+)
+Array
+(
+    [user_id] => 1
+    [bet_teams] => Zhejiang Chouzhou vs Guangzhou
+    [bet_league] => China - CBA
+    [bet_id] => 8
+    [bet_agency] => bet365
+    [betAmount] => 21.28
+    [bet_betTeam] => Guangzhou
+    [bet_odds] => 4.6
+    [bet_value] => 13.3
+    [bet_sport] => Basketball
+    [bet_refrenceId] => Zhejiang_Chouzhou_Guangzhou_08112023Home_Away
+    [bet_eventTime] => Nov 8th 2023 at 09:35 PM
+    [bet_line] => To Win
+    [bet_betType] => Home/Away
+)
+Array
+(
+    [user_id] => 1
+    [bet_teams] => Beijing vs Nanjing Tongxi
+    [bet_league] => China - CBA
+    [bet_id] => 5
+    [bet_agency] => bet365
+    [betAmount] => 18.17
+    [bet_betTeam] => Nanjing Tongxi
+    [bet_odds] => 5.25
+    [bet_value] => 13.39
+    [bet_sport] => Basketball
+    [bet_refrenceId] => Beijing_Nanjing_Tongxi_08112023Home_Away
+    [bet_eventTime] => Nov 8th 2023 at 09:35 PM
+    [bet_line] => To Win
+    [bet_betType] => Home/Away
+)
+Array
+(
+    [user_id] => 1
+    [bet_teams] => Beijing vs Nanjing Tongxi
+    [bet_league] => China - CBA
+    [bet_id] => 5
+    [bet_agency] => bet365
+    [betAmount] => 18.17
+    [bet_betTeam] => Nanjing Tongxi
+    [bet_odds] => 5.25
+    [bet_value] => 13.39
+    [bet_sport] => Basketball
+    [bet_refrenceId] => Beijing_Nanjing_Tongxi_08112023Home_Away
+    [bet_eventTime] => Nov 8th 2023 at 09:35 PM
+    [bet_line] => To Win
+    [bet_betType] => Home/Away
+)
+Array
+(
+    [user_id] => 1
+    [bet_teams] => Napoli vs Union Berlin
+    [bet_league] => Europe - ChampionsLeague
+    [bet_id] => 7
+    [bet_agency] => bet365
+    [betAmount] => 2.17
+    [bet_betTeam] => Union Berlin
+    [bet_odds] => 8
+    [bet_value] => 2.96
+    [bet_sport] => Football
+    [bet_refrenceId] => Napoli_Union_Berlin_091120231X2
+    [bet_eventTime] => Nov 9th 2023 at 03:45 AM
+    [bet_line] => To Win
+    [bet_betType] => 1X2
+)
+Array
+(
+    [user_id] => 1
+    [bet_teams] => Napoli vs Union Berlin
+    [bet_league] => Europe - ChampionsLeague
+    [bet_id] => 29
+    [bet_agency] => bet365
+    [betAmount] => 2.17
+    [bet_betTeam] => Union Berlin
+    [bet_odds] => 8
+    [bet_value] => 2.96
+    [bet_sport] => Football
+    [bet_refrenceId] => Napoli_Union_Berlin_091120231X2
+    [bet_eventTime] => Nov 9th 2023 at 03:45 AM
+    [bet_line] => To Win
+    [bet_betType] => 1X2
+)
+Array
+(
+    [user_id] => 1
+    [bet_teams] => Indiana Pacers vs Utah Jazz
+    [bet_league] => USA - NBA
+    [bet_id] => 11
+    [bet_agency] => bet365
+    [betAmount] => 4.81
+    [bet_betTeam] => Utah Jazz
+    [bet_odds] => 3.1
+    [bet_value] => 1.97
+    [bet_sport] => Basketball
+    [bet_refrenceId] => Indiana_Pacers_Utah_Jazz_09112023Home_Away
+    [bet_eventTime] => Nov 9th 2023 at 10:00 AM
+    [bet_line] => To Win
+    [bet_betType] => Home/Away
+)
+Array
+(
+    [user_id] => 1
+    [bet_teams] => Napoli vs Union Berlin
+    [bet_league] => Europe - ChampionsLeague
+    [bet_id] => 7
+    [bet_agency] => bet365
+    [betAmount] => 800
+    [bet_betTeam] => Union Berlin
+    [bet_odds] => 8
+    [bet_value] => 2.96
+    [bet_sport] => Football
+    [bet_refrenceId] => Napoli_Union_Berlin_091120231X2
+    [bet_eventTime] => Nov 9th 2023 at 03:45 AM
+    [bet_line] => To Win
+    [bet_betType] => 1X2
+)
+Array
+(
+    [user_id] => 1
+    [bet_teams] => Mount St. Mary\'s vs Canisius
+    [bet_league] => USA - NCAA
+    [bet_id] => 309
+    [bet_agency] => bet365
+    [betAmount] => 999
+    [bet_betTeam] => Canisius
+    [bet_odds] => 2.25
+    [bet_value] => 1.35
+    [bet_sport] => Basketball
+    [bet_refrenceId] => Mount_St._Mary\'s_Canisius_06012024Home_Away
+    [bet_eventTime] => Jan 6th 2024 at 10:00 AM
+    [bet_line] => Home_Away
+    [bet_betType] => Home_Away
+)
+Array
+(
+    [user_id] => 1
+    [bet_teams] => Toledo vs Miami (Ohio)
+    [bet_league] => USA - NCAA
+    [bet_id] => 311
+    [bet_agency] => bet365
+    [betAmount] => 78
+    [bet_betTeam] => Miami (Ohio)
+    [bet_odds] => 6.25
+    [bet_value] => 1.63
+    [bet_sport] => Basketball
+    [bet_refrenceId] => Toledo_Miami_(Ohio)_06012024Home_Away
+    [bet_eventTime] => Jan 6th 2024 at 10:00 AM
+    [bet_line] => Home_Away
+    [bet_betType] => Home_Away
+)
+Array
+(
+    [user_id] => 1
+    [bet_teams] => Sinner J. vs Khachanov K.
+    [bet_league] => Australia - ATPAustralianOpen
+    [bet_id] => 2
+    [bet_agency] => bet365
+    [betAmount] => 1
+    [bet_betTeam] => Khachanov K.
+    [bet_odds] => 8
+    [bet_value] => 10.65
+    [bet_sport] => Tennis
+    [bet_refrenceId] => Sinner_J._Khachanov_K._21012024Home_Away
+    [bet_eventTime] => Jan 21st 2024 at 03:15 PM
+    [bet_line] => Home_Away
+    [bet_betType] => Home_Away
+)
+Array
+(
+    [user_id] => 1
+    [bet_teams] => De Minaur A. vs Rublev A.
+    [bet_league] => Australia - ATPAustralianOpen
+    [bet_id] => 3
+    [bet_agency] => bet365
+    [betAmount] => 21.05
+    [bet_betTeam] => Rublev A.
+    [bet_odds] => 1.73
+    [bet_value] => 2.98
+    [bet_sport] => Tennis
+    [bet_refrenceId] => De_Minaur_A._Rublev_A._21012024Home_Away
+    [bet_eventTime] => Jan 21st 2024 at 06:00 PM
+    [bet_line] => Home_Away
+    [bet_betType] => Home_Away
+)
+Array
+(
+    [user_id] => 1
+    [bet_teams] => Maryland vs Michigan State
+    [bet_league] => USA - NCAA
+    [bet_id] => 45
+    [bet_agency] => bet365
+    [betAmount] => 19.51
+    [bet_betTeam] => Maryland
+    [bet_odds] => 2.05
+    [bet_value] => 6.22
+    [bet_sport] => Basketball
+    [bet_refrenceId] => Maryland_Michigan_State_22012024Home_Away
+    [bet_eventTime] => Jan 22nd 2024 at 03:00 AM
+    [bet_line] => Home_Away
+    [bet_betType] => Home_Away
+)
+Array
+(
+    [user_id] => 1
+    [bet_teams] => Brighton vs Wolves
+    [bet_league] => England - PremierLeague
+    [bet_id] => 10
+    [bet_agency] => bet365
+    [betAmount] => 6.58
+    [bet_betTeam] => Wolves
+    [bet_odds] => 5.25
+    [bet_value] => 2.74
+    [bet_sport] => Football
+    [bet_refrenceId] => Brighton_Wolves_230120241X2
+    [bet_eventTime] => Jan 23rd 2024 at 05:45 AM
+    [bet_line] => 1X2
+    [bet_betType] => 1X2
+)
+Array
+(
+    [user_id] => 3
+    [bet_teams] => Grasshoppers vs Zurich
+    [bet_league] => Switzerland - SuperLeague
+    [bet_id] => 285
+    [bet_agency] => bet365
+    [betAmount] => 5
+    [bet_betTeam] => Draw
+    [bet_odds] => 3.8
+    [bet_value] => 5.85
+    [bet_sport] => Football
+    [bet_refrenceId] => Grasshoppers_Zurich_290120241X2
+    [bet_eventTime] => Jan 29th 2024 at 01:30 AM
+    [bet_line] => 1X2
+    [bet_betType] => 1X2
+)
+Array
+(
+    [user_id] => 3
+    [bet_teams] => Atlanta Hawks vs Toronto Raptors
+    [bet_league] => USA - NBA
+    [bet_id] => 314
+    [bet_agency] => bet365
+    [betAmount] => 3
+    [bet_betTeam] => Toronto Raptors
+    [bet_odds] => 3.05
+    [bet_value] => 3.04
+    [bet_sport] => Basketball
+    [bet_refrenceId] => Atlanta_Hawks_Toronto_Raptors_29012024Home_Away
+    [bet_eventTime] => Jan 29th 2024 at 09:00 AM
+    [bet_line] => Home_Away
+    [bet_betType] => Home_Away
+)
+Array
+(
+    [user_id] => 3
+    [bet_teams] => UAB vs Memphis
+    [bet_league] => USA - NCAA
+    [bet_id] => 310
+    [bet_agency] => bet365
+    [betAmount] => 11.49
+    [bet_betTeam] => Memphis
+    [bet_odds] => 1.56
+    [bet_value] => 4
+    [bet_sport] => Basketball
+    [bet_refrenceId] => UAB_Memphis_29012024Home_Away
+    [bet_eventTime] => Jan 29th 2024 at 08:00 AM
+    [bet_line] => Home_Away
+    [bet_betType] => Home_Away
+)
+Array
+(
+    [user_id] => 3
+    [bet_teams] => St. Louis Blues vs Los Angeles Kings
+    [bet_league] => USA - NHL
+    [bet_id] => 289
+    [bet_agency] => bet365
+    [betAmount] => 7
+    [bet_betTeam] => Los Angeles Kings
+    [bet_odds] => 2.15
+    [bet_value] => 3.87
+    [bet_sport] => Hockey
+    [bet_refrenceId] => St._Louis_Blues_Los_Angeles_Kings_290120241X2
+    [bet_eventTime] => Jan 29th 2024 at 05:00 AM
+    [bet_line] => 1X2
+    [bet_betType] => 1X2
+)
+Array
+(
+    [user_id] => 3
+    [bet_teams] => Nottingham vs Arsenal
+    [bet_league] => England - PremierLeague
+    [bet_id] => 277
+    [bet_agency] => bet365
+    [betAmount] => 3
+    [bet_betTeam] => Nottingham
+    [bet_odds] => 8.5
+    [bet_value] => 11.84
+    [bet_sport] => Football
+    [bet_refrenceId] => Nottingham_Arsenal_310120241X2
+    [bet_eventTime] => Jan 31st 2024 at 05:30 AM
+    [bet_line] => 1X2
+    [bet_betType] => 1X2
+)
+Array
+(
+    [user_id] => 3
+    [bet_teams] => Crystal Palace vs Sheffield Utd
+    [bet_league] => England - PremierLeague
+    [bet_id] => 280
+    [bet_agency] => bet365
+    [betAmount] => 5
+    [bet_betTeam] => Sheffield Utd
+    [bet_odds] => 6.5
+    [bet_value] => 19.7
+    [bet_sport] => Football
+    [bet_refrenceId] => Crystal_Palace_Sheffield_Utd_310120241X2
+    [bet_eventTime] => Jan 31st 2024 at 06:00 AM
+    [bet_line] => 1X2
+    [bet_betType] => 1X2
+)
+Array
+(
+    [user_id] => 3
+    [bet_teams] => Rutgers vs Purdue
+    [bet_league] => USA - NCAA
+    [bet_id] => 302
+    [bet_agency] => bet365
+    [betAmount] => 3
+    [bet_betTeam] => Rutgers
+    [bet_odds] => 5.25
+    [bet_value] => 2.94
+    [bet_sport] => Basketball
+    [bet_refrenceId] => Rutgers_Purdue_29012024Home_Away
+    [bet_eventTime] => Jan 29th 2024 at 04:00 AM
+    [bet_line] => Home_Away
+    [bet_betType] => Home_Away
+)
+Array
+(
+    [user_id] => 3
+    [bet_teams] => East Carolina vs Temple
+    [bet_league] => USA - NCAA
+    [bet_id] => 309
+    [bet_agency] => bet365
+    [betAmount] => 2
+    [bet_betTeam] => Temple
+    [bet_odds] => 3.3
+    [bet_value] => 2.17
+    [bet_sport] => Basketball
+    [bet_refrenceId] => East_Carolina_Temple_29012024Home_Away
+    [bet_eventTime] => Jan 29th 2024 at 08:00 AM
+    [bet_line] => Home_Away
+    [bet_betType] => Home_Away
+)
+Array
+(
+    [user_id] => 1
+    [bet_teams] => Young Boys vs Yverdon
+    [bet_league] => Switzerland - SuperLeague
+    [bet_id] => 288
+    [bet_agency] => bet365
+    [betAmount] => 15
+    [bet_betTeam] => Young Boys
+    [bet_odds] => 1.44
+    [bet_value] => 0.7
+    [bet_sport] => Football
+    [bet_refrenceId] => Young_Boys_Yverdon_310120241X2
+    [bet_eventTime] => Jan 31st 2024 at 05:30 AM
+    [bet_line] => 1X2
+    [bet_betType] => 1X2
+)
+Array
+(
+    [user_id] => 1
+    [bet_teams] => Lugano vs Grasshoppers
+    [bet_league] => Switzerland - SuperLeague
+    [bet_id] => 344
+    [bet_agency] => bet365
+    [betAmount] => 5
+    [bet_betTeam] => Grasshoppers
+    [bet_odds] => 4.33
+    [bet_value] => 5.61
+    [bet_sport] => Football
+    [bet_refrenceId] => Lugano_Grasshoppers_010220241X2
+    [bet_eventTime] => Feb 1st 2024 at 05:30 AM
+    [bet_line] => 1X2
+    [bet_betType] => 1X2
+)
+Array
+(
+    [user_id] => 1
+    [bet_teams] => Ottawa Senators vs Nashville Predators
+    [bet_league] => USA - NHL
+    [bet_id] => 291
+    [bet_agency] => bet365
+    [betAmount] => 11
+    [bet_betTeam] => Nashville Predators
+    [bet_odds] => 2.5
+    [bet_value] => 1.63
+    [bet_sport] => Hockey
+    [bet_refrenceId] => Ottawa_Senators_Nashville_Predators_300120241X2
+    [bet_eventTime] => Jan 30th 2024 at 10:00 AM
+    [bet_line] => 1X2
+    [bet_betType] => 1X2
+)
+Array
+(
+    [user_id] => 3
+    [bet_teams] => Virginia Tech vs Duke
+    [bet_league] => USA - NCAA
+    [bet_id] => 351
+    [bet_agency] => bet365
+    [betAmount] => 6
+    [bet_betTeam] => Virginia Tech
+    [bet_odds] => 2.45
+    [bet_value] => 4.25
+    [bet_sport] => Basketball
+    [bet_refrenceId] => Virginia_Tech_Duke_30012024Home_Away
+    [bet_eventTime] => Jan 30th 2024 at 10:00 AM
+    [bet_line] => Home_Away
+    [bet_betType] => Home_Away
+)
+Array
+(
+    [user_id] => 3
+    [bet_teams] => Ambri-Piotta vs Ajoie
+    [bet_league] => Switzerland - NationalLeague
+    [bet_id] => 376
+    [bet_agency] => bet365
+    [betAmount] => 10
+    [bet_betTeam] => Ambri-Piotta
+    [bet_odds] => 1.56
+    [bet_value] => 2.63
+    [bet_sport] => Hockey
+    [bet_refrenceId] => Ambri-Piotta_Ajoie_310120241X2
+    [bet_eventTime] => Jan 31st 2024 at 04:45 AM
+    [bet_line] => 1X2
+    [bet_betType] => 1X2
+)
+Array
+(
+    [user_id] => 3
+    [bet_teams] => Bern vs Biel
+    [bet_league] => Switzerland - NationalLeague
+    [bet_id] => 377
+    [bet_agency] => bet365
+    [betAmount] => 8
+    [bet_betTeam] => Bern
+    [bet_odds] => 2.45
+    [bet_value] => 5.15
+    [bet_sport] => Hockey
+    [bet_refrenceId] => Bern_Biel_310120241X2
+    [bet_eventTime] => Jan 31st 2024 at 04:45 AM
+    [bet_line] => 1X2
+    [bet_betType] => 1X2
+)
+Array
+(
+    [user_id] => 3
+    [bet_teams] => Lindenwood vs Southeast Missouri State
+    [bet_league] => USA - NCAA
+    [bet_id] => 416
+    [bet_agency] => bet365
+    [betAmount] => 10
+    [bet_betTeam] => Lindenwood
+    [bet_odds] => 1.65
+    [bet_value] => 3.13
+    [bet_sport] => Basketball
+    [bet_refrenceId] => Lindenwood_Southeast_Missouri_State_31012024Home_Away
+    [bet_eventTime] => Jan 31st 2024 at 11:30 AM
+    [bet_line] => Home_Away
+    [bet_betType] => Home_Away
+)
+Array
+(
+    [user_id] => 3
+    [bet_teams] => St. Louis Blues vs Columbus Blue Jackets
+    [bet_league] => USA - NHL
+    [bet_id] => 292
+    [bet_agency] => bet365
+    [betAmount] => 7
+    [bet_betTeam] => St. Louis Blues
+    [bet_odds] => 2
+    [bet_value] => 3.63
+    [bet_sport] => Hockey
+    [bet_refrenceId] => St._Louis_Blues_Columbus_Blue_Jackets_310120241X2
+    [bet_eventTime] => Jan 31st 2024 at 11:00 AM
+    [bet_line] => 1X2
+    [bet_betType] => 1X2
+)
+Array
+(
+    [user_id] => 3
+    [bet_teams] => Rapperswil vs Lausanne
+    [bet_league] => Switzerland - NationalLeague
+    [bet_id] => 381
+    [bet_agency] => bet365
+    [betAmount] => 7
+    [bet_betTeam] => Rapperswil
+    [bet_odds] => 2.8
+    [bet_value] => 6.06
+    [bet_sport] => Hockey
+    [bet_refrenceId] => Rapperswil_Lausanne_310120241X2
+    [bet_eventTime] => Jan 31st 2024 at 04:45 AM
+    [bet_line] => 1X2
+    [bet_betType] => 1X2
+)
+Array
+(
+    [user_id] => 3
+    [bet_teams] => San Jose Sharks vs Seattle Kraken
+    [bet_league] => USA - NHL
+    [bet_id] => 293
+    [bet_agency] => bet365
+    [betAmount] => 6
+    [bet_betTeam] => Seattle Kraken
+    [bet_odds] => 1.8
+    [bet_value] => 2.27
+    [bet_sport] => Hockey
+    [bet_refrenceId] => San_Jose_Sharks_Seattle_Kraken_310120241X2
+    [bet_eventTime] => Jan 31st 2024 at 01:30 PM
+    [bet_line] => 1X2
+    [bet_betType] => 1X2
+)
+Array
+(
+    [user_id] => 3
+    [bet_teams] => Air Force vs Wyoming
+    [bet_league] => USA - NCAA
+    [bet_id] => 418
+    [bet_agency] => bet365
+    [betAmount] => 3
+    [bet_betTeam] => Wyoming
+    [bet_odds] => 2.5
+    [bet_value] => 2.46
+    [bet_sport] => Basketball
+    [bet_refrenceId] => Air_Force_Wyoming_31012024Home_Away
+    [bet_eventTime] => Jan 31st 2024 at 12:00 PM
+    [bet_line] => Home_Away
+    [bet_betType] => Home_Away
+)
+Array
+(
+    [user_id] => 3
+    [bet_teams] => Ball State vs Bowling Green
+    [bet_league] => USA - NCAA
+    [bet_id] => 399
+    [bet_agency] => bet365
+    [betAmount] => 2
+    [bet_betTeam] => Ball State
+    [bet_odds] => 2.05
+    [bet_value] => 1.49
+    [bet_sport] => Basketball
+    [bet_refrenceId] => Ball_State_Bowling_Green_31012024Home_Away
+    [bet_eventTime] => Jan 31st 2024 at 10:00 AM
+    [bet_line] => Home_Away
+    [bet_betType] => Home_Away
+)
+Array
+(
+    [user_id] => 3
+    [bet_teams] => Georgia Tech vs North Carolina
+    [bet_league] => USA - NCAA
+    [bet_id] => 404
+    [bet_agency] => bet365
+    [betAmount] => 20
+    [bet_betTeam] => North Carolina
+    [bet_odds] => 1.24
+    [bet_value] => 3.33
+    [bet_sport] => Basketball
+    [bet_refrenceId] => Georgia_Tech_North_Carolina_31012024Home_Away
+    [bet_eventTime] => Jan 31st 2024 at 10:00 AM
+    [bet_line] => Home_Away
+    [bet_betType] => Home_Away
+)
+Array
+(
+    [user_id] => 3
+    [bet_teams] => Shnaider D. vs Badosa P.
+    [bet_league] => Thailand - WTAHuaHin
+    [bet_id] => 441
+    [bet_agency] => bet365
+    [betAmount] => 5
+    [bet_betTeam] => Shnaider D.
+    [bet_odds] => 2.75
+    [bet_value] => 4.56
+    [bet_sport] => Tennis
+    [bet_refrenceId] => Shnaider_D._Badosa_P._31012024Home_Away
+    [bet_eventTime] => Jan 31st 2024 at 01:00 PM
+    [bet_line] => Home_Away
+    [bet_betType] => Home_Away
+)
+Array
+(
+    [user_id] => 3
+    [bet_teams] => Citadel vs Furman
+    [bet_league] => USA - NCAA
+    [bet_id] => 458
+    [bet_agency] => bet365
+    [betAmount] => 3
+    [bet_betTeam] => Citadel
+    [bet_odds] => 3.5
+    [bet_value] => 4.17
+    [bet_sport] => Basketball
+    [bet_refrenceId] => Citadel_Furman_01022024Home_Away
+    [bet_eventTime] => Feb 1st 2024 at 10:00 AM
+    [bet_line] => Home_Away
+    [bet_betType] => Home_Away
+)
+Array
+(
+    [user_id] => 3
+    [bet_teams] => Tulsa vs Wichita State
+    [bet_league] => USA - NCAA
+    [bet_id] => 474
+    [bet_agency] => bet365
+    [betAmount] => 7
+    [bet_betTeam] => Wichita State
+    [bet_odds] => 2.05
+    [bet_value] => 3.54
+    [bet_sport] => Basketball
+    [bet_refrenceId] => Tulsa_Wichita_State_01022024Home_Away
+    [bet_eventTime] => Feb 1st 2024 at 10:00 AM
+    [bet_line] => Home_Away
+    [bet_betType] => Home_Away
+)
+Array
+(
+    [user_id] => 3
+    [bet_teams] => San Antonio Spurs vs Orlando Magic
+    [bet_league] => USA - NBA
+    [bet_id] => 498
+    [bet_agency] => bet365
+    [betAmount] => 4
+    [bet_betTeam] => San Antonio Spurs
+    [bet_odds] => 2.7
+    [bet_value] => 3.05
+    [bet_sport] => Basketball
+    [bet_refrenceId] => San_Antonio_Spurs_Orlando_Magic_01022024Home_Away
+    [bet_eventTime] => Feb 1st 2024 at 11:00 AM
+    [bet_line] => Home_Away
+    [bet_betType] => Home_Away
+)
+Array
+(
+    [user_id] => 3
+    [bet_teams] => Volynets K. vs Maria T.
+    [bet_league] => Thailand - WTAHuaHin
+    [bet_id] => 504
+    [bet_agency] => bet365
+    [betAmount] => 8
+    [bet_betTeam] => Volynets K.
+    [bet_odds] => 1.73
+    [bet_value] => 2.98
+    [bet_sport] => Tennis
+    [bet_refrenceId] => Volynets_K._Maria_T._01022024Home_Away
+    [bet_eventTime] => Feb 1st 2024 at 05:00 PM
+    [bet_line] => Home_Away
+    [bet_betType] => Home_Away
+)
+Array
+(
+    [user_id] => 3
+    [bet_teams] => Fruhvirtova L. vs Zhu L.
+    [bet_league] => Thailand - WTAHuaHin
+    [bet_id] => 506
+    [bet_agency] => bet365
+    [betAmount] => 4
+    [bet_betTeam] => Fruhvirtova L.
+    [bet_odds] => 2.1
+    [bet_value] => 2.44
+    [bet_sport] => Tennis
+    [bet_refrenceId] => Fruhvirtova_L._Zhu_L._01022024Home_Away
+    [bet_eventTime] => Feb 1st 2024 at 08:00 PM
+    [bet_line] => Home_Away
+    [bet_betType] => Home_Away
+)
+Array
+(
+    [user_id] => 3
+    [bet_teams] => Mercer vs East Tennessee St
+    [bet_league] => USA - NCAA
+    [bet_id] => 467
+    [bet_agency] => bet365
+    [betAmount] => 4
+    [bet_betTeam] => East Tennessee St
+    [bet_odds] => 2.05
+    [bet_value] => 1.99
+    [bet_sport] => Basketball
+    [bet_refrenceId] => Mercer_East_Tennessee_St_01022024Home_Away
+    [bet_eventTime] => Feb 1st 2024 at 10:00 AM
+    [bet_line] => Home_Away
+    [bet_betType] => Home_Away
+)
+Array
+(
+    [user_id] => 3
+    [bet_teams] => Hartford Wolf Pack vs Charlotte Checkers
+    [bet_league] => USA - AHL
+    [bet_id] => 395
+    [bet_agency] => bet365
+    [betAmount] => 8
+    [bet_betTeam] => Draw
+    [bet_odds] => 4
+    [bet_value] => 11.73
+    [bet_sport] => Hockey
+    [bet_refrenceId] => Hartford_Wolf_Pack_Charlotte_Checkers_010220241X2
+    [bet_eventTime] => Feb 1st 2024 at 10:00 AM
+    [bet_line] => 1X2
+    [bet_betType] => 1X2
+)
+Array
+(
+    [user_id] => 3
+    [bet_teams] => Bucknell vs Loyola Maryland
+    [bet_league] => USA - NCAA
+    [bet_id] => 457
+    [bet_agency] => bet365
+    [betAmount] => 28
+    [bet_betTeam] => Bucknell
+    [bet_odds] => 1.29
+    [bet_value] => 4.03
+    [bet_sport] => Basketball
+    [bet_refrenceId] => Bucknell_Loyola_Maryland_01022024Home_Away
+    [bet_eventTime] => Feb 1st 2024 at 10:00 AM
+    [bet_line] => Home_Away
+    [bet_betType] => Home_Away
+)
+Array
+(
+    [user_id] => 3
+    [bet_teams] => Everton vs Tottenham
+    [bet_league] => England - PremierLeague
+    [bet_id] => 511
+    [bet_agency] => bet365
+    [betAmount] => 4
+    [bet_betTeam] => Everton
+    [bet_odds] => 2.7
+    [bet_value] => 3.05
+    [bet_sport] => Football
+    [bet_refrenceId] => Everton_Tottenham_030220241X2
+    [bet_eventTime] => Feb 3rd 2024 at 10:30 PM
+    [bet_line] => 1X2
+    [bet_betType] => 1X2
+)
+Array
+(
+    [user_id] => 3
+    [bet_teams] => UCF Knights vs Baylor
+    [bet_league] => USA - NCAA
+    [bet_id] => 475
+    [bet_agency] => bet365
+    [betAmount] => 4
+    [bet_betTeam] => UCF Knights
+    [bet_odds] => 2.3
+    [bet_value] => 3.14
+    [bet_sport] => Basketball
+    [bet_refrenceId] => UCF_Knights_Baylor_01022024Home_Away
+    [bet_eventTime] => Feb 1st 2024 at 10:00 AM
+    [bet_line] => Home_Away
+    [bet_betType] => Home_Away
+)
+Array
+(
+    [user_id] => 3
+    [bet_teams] => Jacksonville vs Austin Peay
+    [bet_league] => USA - NCAA
+    [bet_id] => 464
+    [bet_agency] => bet365
+    [betAmount] => 12
+    [bet_betTeam] => Austin Peay
+    [bet_odds] => 1.67
+    [bet_value] => 3.73
+    [bet_sport] => Basketball
+    [bet_refrenceId] => Jacksonville_Austin_Peay_01022024Home_Away
+    [bet_eventTime] => Feb 1st 2024 at 10:00 AM
+    [bet_line] => Home_Away
+    [bet_betType] => Home_Away
+)
+Array
+(
+    [user_id] => 3
+    [bet_teams] => Western Carolina vs Chattanooga Mocs
+    [bet_league] => USA - NCAA
+    [bet_id] => 478
+    [bet_agency] => bet365
+    [betAmount] => 6
+    [bet_betTeam] => Chattanooga Mocs
+    [bet_odds] => 2.7
+    [bet_value] => 5.06
+    [bet_sport] => Basketball
+    [bet_refrenceId] => Western_Carolina_Chattanooga_Mocs_01022024Home_Away
+    [bet_eventTime] => Feb 1st 2024 at 10:00 AM
+    [bet_line] => Home_Away
+    [bet_betType] => Home_Away
+)
+Array
+(
+    [user_id] => 3
+    [bet_teams] => Rodionova Ar. vs Bai Z.
+    [bet_league] => Thailand - WTAHuaHin
+    [bet_id] => 507
+    [bet_agency] => bet365
+    [betAmount] => 10
+    [bet_betTeam] => Bai Z.
+    [bet_odds] => 1.57
+    [bet_value] => 2.61
+    [bet_sport] => Tennis
+    [bet_refrenceId] => Rodionova_Ar._Bai_Z._01022024Home_Away
+    [bet_eventTime] => Feb 1st 2024 at 09:30 PM
+    [bet_line] => Home_Away
+    [bet_betType] => Home_Away
+)
+Array
+(
+    [user_id] => 3
+    [bet_teams] => Fordham vs Richmond
+    [bet_league] => USA - NCAA
+    [bet_id] => 462
+    [bet_agency] => bet365
+    [betAmount] => 5
+    [bet_betTeam] => Fordham
+    [bet_odds] => 2.1
+    [bet_value] => 2.44
+    [bet_sport] => Basketball
+    [bet_refrenceId] => Fordham_Richmond_01022024Home_Away
+    [bet_eventTime] => Feb 1st 2024 at 10:00 AM
+    [bet_line] => Home_Away
+    [bet_betType] => Home_Away
+)
+Array
+(
+    [user_id] => 3
+    [bet_teams] => Lafayette vs American University
+    [bet_league] => USA - NCAA
+    [bet_id] => 465
+    [bet_agency] => bet365
+    [betAmount] => 5
+    [bet_betTeam] => American University
+    [bet_odds] => 1.91
+    [bet_value] => 2.69
+    [bet_sport] => Basketball
+    [bet_refrenceId] => Lafayette_American_University_01022024Home_Away
+    [bet_eventTime] => Feb 1st 2024 at 10:00 AM
+    [bet_line] => Home_Away
+    [bet_betType] => Home_Away
+)
+Array
+(
+    [user_id] => 3
+    [bet_teams] => Missouri vs Arkansas
+    [bet_league] => USA - NCAA
+    [bet_id] => 491
+    [bet_agency] => bet365
+    [betAmount] => 2.22
+    [bet_betTeam] => Arkansas
+    [bet_odds] => 3.05
+    [bet_value] => 2.69
+    [bet_sport] => Basketball
+    [bet_refrenceId] => Missouri_Arkansas_01022024Home_Away
+    [bet_eventTime] => Feb 1st 2024 at 11:30 AM
+    [bet_line] => Home_Away
+    [bet_betType] => Home_Away
+)
+Array
+(
+    [user_id] => 3
+    [bet_teams] => Marshall vs Old Dominion
+    [bet_league] => USA - NCAA
+    [bet_id] => 560
+    [bet_agency] => bet365
+    [betAmount] => 5
+    [bet_betTeam] => Old Dominion
+    [bet_odds] => 5.75
+    [bet_value] => 27.49
+    [bet_sport] => Basketball
+    [bet_refrenceId] => Marshall_Old_Dominion_02022024Home_Away
+    [bet_eventTime] => Feb 2nd 2024 at 10:00 AM
+    [bet_line] => Home_Away
+    [bet_betType] => Home_Away
+)
+Array
+(
+    [user_id] => 3
+    [bet_teams] => Georgia Southern vs Troy
+    [bet_league] => USA - NCAA
+    [bet_id] => 554
+    [bet_agency] => bet365
+    [betAmount] => 7
+    [bet_betTeam] => Troy
+    [bet_odds] => 1.48
+    [bet_value] => 2.07
+    [bet_sport] => Basketball
+    [bet_refrenceId] => Georgia_Southern_Troy_02022024Home_Away
+    [bet_eventTime] => Feb 2nd 2024 at 10:00 AM
+    [bet_line] => Home_Away
+    [bet_betType] => Home_Away
+)
+Array
+(
+    [user_id] => 3
+    [bet_teams] => Eastern Illinois vs UT Martin
+    [bet_league] => USA - NCAA
+    [bet_id] => 584
+    [bet_agency] => bet365
+    [betAmount] => 7
+    [bet_betTeam] => Eastern Illinois
+    [bet_odds] => 2
+    [bet_value] => 3.63
+    [bet_sport] => Basketball
+    [bet_refrenceId] => Eastern_Illinois_UT_Martin_02022024Home_Away
+    [bet_eventTime] => Feb 2nd 2024 at 11:30 AM
+    [bet_line] => Home_Away
+    [bet_betType] => Home_Away
+)
+Array
+(
+    [user_id] => 3
+    [bet_teams] => Siu Edwardsville vs UALR
+    [bet_league] => USA - NCAA
+    [bet_id] => 587
+    [bet_agency] => bet365
+    [betAmount] => 9
+    [bet_betTeam] => Siu Edwardsville
+    [bet_odds] => 1.71
+    [bet_value] => 3.01
+    [bet_sport] => Basketball
+    [bet_refrenceId] => Siu_Edwardsville_UALR_02022024Home_Away
+    [bet_eventTime] => Feb 2nd 2024 at 11:30 AM
+    [bet_line] => Home_Away
+    [bet_betType] => Home_Away
+)
+Array
+(
+    [user_id] => 3
+    [bet_teams] => Nebraska O. vs St. Thomas (Minn.)
+    [bet_league] => USA - NCAA
+    [bet_id] => 573
+    [bet_agency] => bet365
+    [betAmount] => 6
+    [bet_betTeam] => Nebraska O.
+    [bet_odds] => 2.15
+    [bet_value] => 3.37
+    [bet_sport] => Basketball
+    [bet_refrenceId] => Nebraska_O._St._Thomas_(Minn.)_02022024Home_Away
+    [bet_eventTime] => Feb 2nd 2024 at 11:00 AM
+    [bet_line] => Home_Away
+    [bet_betType] => Home_Away
+)
+Array
+(
+    [user_id] => 3
+    [bet_teams] => Texas State vs South Alabama
+    [bet_league] => USA - NCAA
+    [bet_id] => 580
+    [bet_agency] => bet365
+    [betAmount] => 7
+    [bet_betTeam] => South Alabama
+    [bet_odds] => 2.2
+    [bet_value] => 4.26
+    [bet_sport] => Basketball
+    [bet_refrenceId] => Texas_State_South_Alabama_02022024Home_Away
+    [bet_eventTime] => Feb 2nd 2024 at 11:00 AM
+    [bet_line] => Home_Away
+    [bet_betType] => Home_Away
+)
+Array
+(
+    [user_id] => 3
+    [bet_teams] => New Mexico State vs Liberty
+    [bet_league] => USA - NCAA
+    [bet_id] => 595
+    [bet_agency] => bet365
+    [betAmount] => 10
+    [bet_betTeam] => Liberty
+    [bet_odds] => 1.48
+    [bet_value] => 4.22
+    [bet_sport] => Basketball
+    [bet_refrenceId] => New_Mexico_State_Liberty_02022024Home_Away
+    [bet_eventTime] => Feb 2nd 2024 at 12:00 PM
+    [bet_line] => Home_Away
+    [bet_betType] => Home_Away
+)
+Array
+(
+    [user_id] => 3
+    [bet_teams] => UTEP vs Jacksonville State
+    [bet_league] => USA - NCAA
+    [bet_id] => 597
+    [bet_agency] => bet365
+    [betAmount] => 5
+    [bet_betTeam] => Jacksonville State
+    [bet_odds] => 2.5
+    [bet_value] => 3.73
+    [bet_sport] => Basketball
+    [bet_refrenceId] => UTEP_Jacksonville_State_02022024Home_Away
+    [bet_eventTime] => Feb 2nd 2024 at 12:00 PM
+    [bet_line] => Home_Away
+    [bet_betType] => Home_Away
+)
+Array
+(
+    [user_id] => 3
+    [bet_teams] => UMKC vs Denver
+    [bet_league] => USA - NCAA
+    [bet_id] => 581
+    [bet_agency] => bet365
+    [betAmount] => 8
+    [bet_betTeam] => Denver
+    [bet_odds] => 2.2
+    [bet_value] => 4.76
+    [bet_sport] => Basketball
+    [bet_refrenceId] => UMKC_Denver_02022024Home_Away
+    [bet_eventTime] => Feb 2nd 2024 at 11:00 AM
+    [bet_line] => Home_Away
+    [bet_betType] => Home_Away
+)
+Array
+(
+    [user_id] => 3
+    [bet_teams] => Utah Tech vs UTRGV
+    [bet_league] => USA - NCAA
+    [bet_id] => 596
+    [bet_agency] => bet365
+    [betAmount] => 6
+    [bet_betTeam] => UTRGV
+    [bet_odds] => 2.75
+    [bet_value] => 5.36
+    [bet_sport] => Basketball
+    [bet_refrenceId] => Utah_Tech_UTRGV_02022024Home_Away
+    [bet_eventTime] => Feb 2nd 2024 at 12:00 PM
+    [bet_line] => Home_Away
+    [bet_betType] => Home_Away
+)
+Array
+(
+    [user_id] => 3
+    [bet_teams] => James Madison vs Coastal Carolina
+    [bet_league] => USA - NCAA
+    [bet_id] => 559
+    [bet_agency] => bet365
+    [betAmount] => 3
+    [bet_betTeam] => Coastal Carolina
+    [bet_odds] => 15
+    [bet_value] => 21.56
+    [bet_sport] => Basketball
+    [bet_refrenceId] => James_Madison_Coastal_Carolina_02022024Home_Away
+    [bet_eventTime] => Feb 2nd 2024 at 10:00 AM
+    [bet_line] => Home_Away
+    [bet_betType] => Home_Away
+)
+Array
+(
+    [user_id] => 3
+    [bet_teams] => IPFW vs Wisc. Milwaukee
+    [bet_league] => USA - NCAA
+    [bet_id] => 558
+    [bet_agency] => bet365
+    [betAmount] => 8
+    [bet_betTeam] => IPFW
+    [bet_odds] => 1.67
+    [bet_value] => 2.45
+    [bet_sport] => Basketball
+    [bet_refrenceId] => IPFW_Wisc._Milwaukee_02022024Home_Away
+    [bet_eventTime] => Feb 2nd 2024 at 10:00 AM
+    [bet_line] => Home_Away
+    [bet_betType] => Home_Away
+)
+Array
+(
+    [user_id] => 3
+    [bet_teams] => Wright State vs Youngstown State
+    [bet_league] => USA - NCAA
+    [bet_id] => 599
+    [bet_agency] => bet365
+    [betAmount] => 4
+    [bet_betTeam] => Youngstown State
+    [bet_odds] => 2.25
+    [bet_value] => 2.74
+    [bet_sport] => Basketball
+    [bet_refrenceId] => Wright_State_Youngstown_State_02022024Home_Away
+    [bet_eventTime] => Feb 2nd 2024 at 12:00 PM
+    [bet_line] => Home_Away
+    [bet_betType] => Home_Away
+)
+Array
+(
+    [user_id] => 3
+    [bet_teams] => Western Kentucky vs Sam Houston St.
+    [bet_league] => USA - NCAA
+    [bet_id] => 598
+    [bet_agency] => bet365
+    [betAmount] => 10
+    [bet_betTeam] => Western Kentucky
+    [bet_odds] => 1.53
+    [bet_value] => 2.69
+    [bet_sport] => Basketball
+    [bet_refrenceId] => Western_Kentucky_Sam_Houston_St._02022024Home_Away
+    [bet_eventTime] => Feb 2nd 2024 at 12:00 PM
+    [bet_line] => Home_Away
+    [bet_betType] => Home_Away
+)
+Array
+(
+    [user_id] => 3
+    [bet_teams] => Zug vs Biel
+    [bet_league] => Switzerland - NationalLeague
+    [bet_id] => 515
+    [bet_agency] => bet365
+    [betAmount] => 10
+    [bet_betTeam] => Zug
+    [bet_odds] => 1.95
+    [bet_value] => 1.04
+    [bet_sport] => Hockey
+    [bet_refrenceId] => Zug_Biel_030220241X2
+    [bet_eventTime] => Feb 3rd 2024 at 04:45 AM
+    [bet_line] => 1X2
+    [bet_betType] => 1X2
+)
+Array
+(
+    [user_id] => 3
+    [bet_teams] => N. Carolina A&amp;T vs Hampton
+    [bet_league] => USA - NCAA
+    [bet_id] => 562
+    [bet_agency] => bet365
+    [betAmount] => 7
+    [bet_betTeam] => N. Carolina A&amp;T
+    [bet_odds] => 1.53
+    [bet_value] => 2
+    [bet_sport] => Basketball
+    [bet_refrenceId] => N._Carolina_A&T_Hampton_02022024Home_Away
+    [bet_eventTime] => Feb 2nd 2024 at 10:00 AM
+    [bet_line] => Home_Away
+    [bet_betType] => Home_Away
+)
+Array
+(
+    [user_id] => 3
+    [bet_teams] => San Francisco vs San Diego Toreros
+    [bet_league] => USA - NCAA
+    [bet_id] => 607
+    [bet_agency] => bet365
+    [betAmount] => 4
+    [bet_betTeam] => San Diego Toreros
+    [bet_odds] => 14
+    [bet_value] => 21.21
+    [bet_sport] => Basketball
+    [bet_refrenceId] => San_Francisco_San_Diego_Toreros_02022024Home_Away
+    [bet_eventTime] => Feb 2nd 2024 at 02:00 PM
+    [bet_line] => Home_Away
+    [bet_betType] => Home_Away
+)
+Array
+(
+    [user_id] => 3
+    [bet_teams] => Wang Xin. vs Putintseva Y.
+    [bet_league] => Thailand - WTAHuaHin
+    [bet_id] => 609
+    [bet_agency] => bet365
+    [betAmount] => 3.7
+    [bet_betTeam] => Putintseva Y.
+    [bet_odds] => 2.2
+    [bet_value] => 1.38
+    [bet_sport] => Tennis
+    [bet_refrenceId] => Wang_Xin._Putintseva_Y._02022024Home_Away
+    [bet_eventTime] => Feb 2nd 2024 at 05:00 PM
+    [bet_line] => Home_Away
+    [bet_betType] => Home_Away
+)
+Array
+(
+    [user_id] => 3
+    [bet_teams] => Utica Comets vs Toronto Marlies
+    [bet_league] => USA - AHL
+    [bet_id] => 616
+    [bet_agency] => bet365
+    [betAmount] => 4
+    [bet_betTeam] => Draw
+    [bet_odds] => 4.2
+    [bet_value] => 6.6
+    [bet_sport] => Hockey
+    [bet_refrenceId] => Utica_Comets_Toronto_Marlies_030220241X2
+    [bet_eventTime] => Feb 3rd 2024 at 10:00 AM
+    [bet_line] => 1X2
+    [bet_betType] => 1X2
+)
+Array
+(
+    [user_id] => 3
+    [bet_teams] => Towson vs Northeastern
+    [bet_league] => USA - NCAA
+    [bet_id] => 566
+    [bet_agency] => bet365
+    [betAmount] => 4
+    [bet_betTeam] => Northeastern
+    [bet_odds] => 3.5
+    [bet_value] => 5.11
+    [bet_sport] => Basketball
+    [bet_refrenceId] => Towson_Northeastern_02022024Home_Away
+    [bet_eventTime] => Feb 2nd 2024 at 10:00 AM
+    [bet_line] => Home_Away
+    [bet_betType] => Home_Away
+)
+Array
+(
+    [user_id] => 3
+    [bet_teams] => Florida International vs Louisiana Tech
+    [bet_league] => USA - NCAA
+    [bet_id] => 553
+    [bet_agency] => bet365
+    [betAmount] => 7
+    [bet_betTeam] => Florida International
+    [bet_odds] => 4
+    [bet_value] => 8.7
+    [bet_sport] => Basketball
+    [bet_refrenceId] => Florida_International_Louisiana_Tech_02022024Home_Away
+    [bet_eventTime] => Feb 2nd 2024 at 10:00 AM
+    [bet_line] => Home_Away
+    [bet_betType] => Home_Away
+)
+Array
+(
+    [user_id] => 3
+    [bet_teams] => Florida International vs Louisiana Tech
+    [bet_league] => USA - NCAA
+    [bet_id] => 553
+    [bet_agency] => bet365
+    [betAmount] => 7
+    [bet_betTeam] => Florida International
+    [bet_odds] => 4
+    [bet_value] => 8.7
+    [bet_sport] => Basketball
+    [bet_refrenceId] => Florida_International_Louisiana_Tech_02022024Home_Away
+    [bet_eventTime] => Feb 2nd 2024 at 10:00 AM
+    [bet_line] => Home_Away
+    [bet_betType] => Home_Away
+)
+Array
+(
+    [user_id] => 3
+    [bet_teams] => St. Peters vs Niagara
+    [bet_league] => USA - NCAA
+    [bet_id] => 646
+    [bet_agency] => bet365
+    [betAmount] => 10
+    [bet_betTeam] => St. Peters
+    [bet_odds] => 1.56
+    [bet_value] => 3.31
+    [bet_sport] => Basketball
+    [bet_refrenceId] => St._Peters_Niagara_03022024Home_Away
+    [bet_eventTime] => Feb 3rd 2024 at 10:00 AM
+    [bet_line] => Home_Away
+    [bet_betType] => Home_Away
+)
+Array
+(
+    [user_id] => 3
+    [bet_teams] => Dayton vs St. Bonaventure
+    [bet_league] => USA - NCAA
+    [bet_id] => 639
+    [bet_agency] => bet365
+    [betAmount] => 3
+    [bet_betTeam] => St. Bonaventure
+    [bet_odds] => 3.65
+    [bet_value] => 3.4
+    [bet_sport] => Basketball
+    [bet_refrenceId] => Dayton_St._Bonaventure_03022024Home_Away
+    [bet_eventTime] => Feb 3rd 2024 at 10:00 AM
+    [bet_line] => Home_Away
+    [bet_betType] => Home_Away
+)
+Array
+(
+    [user_id] => 3
+    [bet_teams] => Western United vs Sydney FC
+    [bet_league] => Australia - A-League
+    [bet_id] => 532
+    [bet_agency] => bet365
+    [betAmount] => 3
+    [bet_betTeam] => Sydney FC
+    [bet_odds] => 1.83
+    [bet_value] => 1.1
+    [bet_sport] => Football
+    [bet_refrenceId] => Western_United_Sydney_FC_030220241X2
+    [bet_eventTime] => Feb 3rd 2024 at 04:00 PM
+    [bet_line] => 1X2
+    [bet_betType] => 1X2
+)
+Array
+(
+    [user_id] => 3
+    [bet_teams] => Akron vs Toledo
+    [bet_league] => USA - NCAA
+    [bet_id] => 648
+    [bet_agency] => bet365
+    [betAmount] => 8
+    [bet_betTeam] => Akron
+    [bet_odds] => 1.56
+    [bet_value] => 2.63
+    [bet_sport] => Basketball
+    [bet_refrenceId] => Akron_Toledo_03022024Home_Away
+    [bet_eventTime] => Feb 3rd 2024 at 12:00 PM
+    [bet_line] => Home_Away
+    [bet_betType] => Home_Away
+)
+Array
+(
+    [user_id] => 3
+    [bet_teams] => Utah Tech vs UT Arlington
+    [bet_league] => USA - NCAA
+    [bet_id] => 796
+    [bet_agency] => bet365
+    [betAmount] => 5
+    [bet_betTeam] => Utah Tech
+    [bet_odds] => 2.75
+    [bet_value] => 3.77
+    [bet_sport] => Basketball
+    [bet_refrenceId] => Utah_Tech_UT_Arlington_04022024Home_Away
+    [bet_eventTime] => Feb 4th 2024 at 08:00 AM
+    [bet_line] => Home_Away
+    [bet_betType] => Home_Away
+)
+Array
+(
+    [user_id] => 3
+    [bet_teams] => Hertha Berlin vs Hamburger SV
+    [bet_league] => Germany - 2.Bundesliga
+    [bet_id] => 661
+    [bet_agency] => bet365
+    [betAmount] => 4.364
+    [bet_betTeam] => Hertha Berlin
+    [bet_odds] => 3
+    [bet_value] => 3.81
+    [bet_sport] => Football
+    [bet_refrenceId] => Hertha_Berlin_Hamburger_SV_040220241X2
+    [bet_eventTime] => Feb 4th 2024 at 05:30 AM
+    [bet_line] => 1X2
+    [bet_betType] => 1X2
+)
+Array
+(
+    [user_id] => 3
+    [bet_teams] => Texas State vs Southern Miss
+    [bet_league] => USA - NCAA
+    [bet_id] => 799
+    [bet_agency] => bet365
+    [betAmount] => 4
+    [bet_betTeam] => Southern Miss
+    [bet_odds] => 2.15
+    [bet_value] => 2.38
+    [bet_sport] => Basketball
+    [bet_refrenceId] => Texas_State_Southern_Miss_04022024Home_Away
+    [bet_eventTime] => Feb 4th 2024 at 08:15 AM
+    [bet_line] => Home_Away
+    [bet_betType] => Home_Away
+)
+Array
+(
+    [user_id] => 3
+    [bet_teams] => Coachella Valley Firebirds vs Tucson Roadrunners
+    [bet_league] => USA - AHL
+    [bet_id] => 831
+    [bet_agency] => bet365
+    [betAmount] => 15
+    [bet_betTeam] => Draw
+    [bet_odds] => 4.2
+    [bet_value] => 20
+    [bet_sport] => Hockey
+    [bet_refrenceId] => Coachella_Valley_Firebirds_Tucson_Roadrunners_040220241X2
+    [bet_eventTime] => Feb 4th 2024 at 12:00 PM
+    [bet_line] => 1X2
+    [bet_betType] => 1X2
+)
+Array
+(
+    [user_id] => 3
+    [bet_teams] => Langnau Tigers vs Bern
+    [bet_league] => Switzerland - NationalLeague
+    [bet_id] => 628
+    [bet_agency] => bet365
+    [betAmount] => 8
+    [bet_betTeam] => Draw
+    [bet_odds] => 4.2
+    [bet_value] => 12
+    [bet_sport] => Hockey
+    [bet_refrenceId] => Langnau_Tigers_Bern_040220241X2
+    [bet_eventTime] => Feb 4th 2024 at 04:45 AM
+    [bet_line] => 1X2
+    [bet_betType] => 1X2
+)
+Array
+(
+    [user_id] => 1
+    [bet_teams] => EHC Kloten vs Fribourg
+    [bet_league] => Switzerland - NationalLeague
+    [bet_id] => 627
+    [bet_agency] => bet365
+    [betAmount] => 35.71
+    [bet_betTeam] => Draw
+    [bet_odds] => 4.5
+    [bet_value] => 11.11
+    [bet_sport] => Hockey
+    [bet_refrenceId] => EHC_Kloten_Fribourg_040220241X2
+    [bet_eventTime] => Feb 4th 2024 at 04:45 AM
+    [bet_line] => 1X2
+    [bet_betType] => 1X2
+)
+Array
+(
+    [user_id] => 1
+    [bet_teams] => Macarthur FC vs WS Wanderers
+    [bet_league] => Australia - A-League
+    [bet_id] => 660
+    [bet_agency] => bet365
+    [betAmount] => 3.4
+    [bet_betTeam] => Macarthur FC
+    [bet_odds] => 3
+    [bet_value] => 0.67
+    [bet_sport] => Football
+    [bet_refrenceId] => Macarthur_FC_WS_Wanderers_040220241X2
+    [bet_eventTime] => Feb 4th 2024 at 06:00 PM
+    [bet_line] => 1X2
+    [bet_betType] => 1X2
+)
+Array
+(
+    [user_id] => 1
+    [bet_teams] => Brighton vs Crystal Palace
+    [bet_league] => England - PremierLeague
+    [bet_id] => 620
+    [bet_agency] => bet365
+    [betAmount] => 1
+    [bet_betTeam] => Crystal Palace
+    [bet_odds] => 5
+    [bet_value] => 0.4
+    [bet_sport] => Football
+    [bet_refrenceId] => Brighton_Crystal_Palace_040220241X2
+    [bet_eventTime] => Feb 4th 2024 at 01:00 AM
+    [bet_line] => 1X2
+    [bet_betType] => 1X2
+)
+Array
+(
+    [user_id] => 1
+    [bet_teams] => Chelsea vs Wolves
+    [bet_league] => England - PremierLeague
+    [bet_id] => 691
+    [bet_agency] => bet365
+    [betAmount] => 15.88
+    [bet_betTeam] => Wolves
+    [bet_odds] => 6
+    [bet_value] => 7.33
+    [bet_sport] => Football
+    [bet_refrenceId] => Chelsea_Wolves_050220241X2
+    [bet_eventTime] => Feb 5th 2024 at 12:00 AM
+    [bet_line] => 1X2
+    [bet_betType] => 1X2
+)
+Array
+(
+    [user_id] => 1
+    [bet_teams] => Hannover vs Hansa Rostock
+    [bet_league] => Germany - 2.Bundesliga
+    [bet_id] => 663
+    [bet_agency] => bet365
+    [betAmount] => 9.52
+    [bet_betTeam] => Hansa Rostock
+    [bet_odds] => 6
+    [bet_value] => 4.53
+    [bet_sport] => Football
+    [bet_refrenceId] => Hannover_Hansa_Rostock_040220241X2
+    [bet_eventTime] => Feb 4th 2024 at 10:30 PM
+    [bet_line] => 1X2
+    [bet_betType] => 1X2
+)
+Array
+(
+    [user_id] => 1
+    [bet_teams] => Biel vs Lausanne
+    [bet_league] => Switzerland - NationalLeague
+    [bet_id] => 626
+    [bet_agency] => bet365
+    [betAmount] => 37.94
+    [bet_betTeam] => Draw
+    [bet_odds] => 4.2
+    [bet_value] => 10.82
+    [bet_sport] => Hockey
+    [bet_refrenceId] => Biel_Lausanne_040220241X2
+    [bet_eventTime] => Feb 4th 2024 at 04:45 AM
+    [bet_line] => 1X2
+    [bet_betType] => 1X2
+)
+Array
+(
+    [user_id] => 1
+    [bet_teams] => Lugano vs Davos
+    [bet_league] => Switzerland - NationalLeague
+    [bet_id] => 629
+    [bet_agency] => bet365
+    [betAmount] => 19.99
+    [bet_betTeam] => Draw
+    [bet_odds] => 4.3
+    [bet_value] => 6.17
+    [bet_sport] => Hockey
+    [bet_refrenceId] => Lugano_Davos_040220241X2
+    [bet_eventTime] => Feb 4th 2024 at 04:45 AM
+    [bet_line] => 1X2
+    [bet_betType] => 1X2
+)
+Array
+(
+    [user_id] => 1
+    [bet_teams] => Rapperswil vs Zug
+    [bet_league] => Switzerland - NationalLeague
+    [bet_id] => 630
+    [bet_agency] => bet365
+    [betAmount] => 9.46
+    [bet_betTeam] => Draw
+    [bet_odds] => 4.2
+    [bet_value] => 2.94
+    [bet_sport] => Hockey
+    [bet_refrenceId] => Rapperswil_Zug_040220241X2
+    [bet_eventTime] => Feb 4th 2024 at 04:45 AM
+    [bet_line] => 1X2
+    [bet_betType] => 1X2
+)
+Array
+(
+    [user_id] => 1
+    [bet_teams] => Servette vs Ajoie
+    [bet_league] => Switzerland - NationalLeague
+    [bet_id] => 631
+    [bet_agency] => bet365
+    [betAmount] => 12.21
+    [bet_betTeam] => Draw
+    [bet_odds] => 5.75
+    [bet_value] => 5.5
+    [bet_sport] => Hockey
+    [bet_refrenceId] => Servette_Ajoie_040220241X2
+    [bet_eventTime] => Feb 4th 2024 at 04:45 AM
+    [bet_line] => 1X2
+    [bet_betType] => 1X2
+)
+Array
+(
+    [user_id] => 1
+    [bet_teams] => Zurich vs Ambri-Piotta
+    [bet_league] => Switzerland - NationalLeague
+    [bet_id] => 700
+    [bet_agency] => bet365
+    [betAmount] => 3.19
+    [bet_betTeam] => Draw
+    [bet_odds] => 4.5
+    [bet_value] => 1.12
+    [bet_sport] => Hockey
+    [bet_refrenceId] => Zurich_Ambri-Piotta_050220241X2
+    [bet_eventTime] => Feb 5th 2024 at 12:45 AM
+    [bet_line] => 1X2
+    [bet_betType] => 1X2
+)
+Array
+(
+    [user_id] => 1
+    [bet_teams] => Grasshoppers vs Winterthur
+    [bet_league] => Switzerland - SuperLeague
+    [bet_id] => 632
+    [bet_agency] => bet365
+    [betAmount] => 25.84
+    [bet_betTeam] => Draw
+    [bet_odds] => 3.8
+    [bet_value] => 6.74
+    [bet_sport] => Football
+    [bet_refrenceId] => Grasshoppers_Winterthur_040220241X2
+    [bet_eventTime] => Feb 4th 2024 at 03:00 AM
+    [bet_line] => 1X2
+    [bet_betType] => 1X2
+)
+Array
+(
+    [user_id] => 1
+    [bet_teams] => Lausanne vs Young Boys
+    [bet_league] => Switzerland - SuperLeague
+    [bet_id] => 633
+    [bet_agency] => bet365
+    [betAmount] => 17.47
+    [bet_betTeam] => Draw
+    [bet_odds] => 4
+    [bet_value] => 4.99
+    [bet_sport] => Football
+    [bet_refrenceId] => Lausanne_Young_Boys_040220241X2
+    [bet_eventTime] => Feb 4th 2024 at 03:00 AM
+    [bet_line] => 1X2
+    [bet_betType] => 1X2
+)
+Array
+(
+    [user_id] => 1
+    [bet_teams] => Basel vs Lugano
+    [bet_league] => Switzerland - SuperLeague
+    [bet_id] => 634
+    [bet_agency] => bet365
+    [betAmount] => 20.14
+    [bet_betTeam] => Draw
+    [bet_odds] => 3.5
+    [bet_value] => 4.79
+    [bet_sport] => Football
+    [bet_refrenceId] => Basel_Lugano_040220241X2
+    [bet_eventTime] => Feb 4th 2024 at 05:30 AM
+    [bet_line] => 1X2
+    [bet_betType] => 1X2
+)
+Array
+(
+    [user_id] => 1
+    [bet_teams] => Servette vs Lausanne Ouchy
+    [bet_league] => Switzerland - SuperLeague
+    [bet_id] => 703
+    [bet_agency] => bet365
+    [betAmount] => 20.82
+    [bet_betTeam] => Lausanne Ouchy
+    [bet_odds] => 7
+    [bet_value] => 11.11
+    [bet_sport] => Football
+    [bet_refrenceId] => Servette_Lausanne_Ouchy_050220241X2
+    [bet_eventTime] => Feb 5th 2024 at 01:30 AM
+    [bet_line] => 1X2
+    [bet_betType] => 1X2
+)
+Array
+(
+    [user_id] => 1
+    [bet_teams] => Cleveland Monsters vs Chicago Wolves
+    [bet_league] => USA - AHL
+    [bet_id] => 656
+    [bet_agency] => bet365
+    [betAmount] => 12.87
+    [bet_betTeam] => Draw
+    [bet_odds] => 4.2
+    [bet_value] => 3.96
+    [bet_sport] => Hockey
+    [bet_refrenceId] => Cleveland_Monsters_Chicago_Wolves_040220241X2
+    [bet_eventTime] => Feb 4th 2024 at 04:00 AM
+    [bet_line] => 1X2
+    [bet_betType] => 1X2
+)
+Array
+(
+    [user_id] => 1
+    [bet_teams] => Laval Rocket vs Rochester Americans
+    [bet_league] => USA - AHL
+    [bet_id] => 657
+    [bet_agency] => bet365
+    [betAmount] => 10.34
+    [bet_betTeam] => Draw
+    [bet_odds] => 4.33
+    [bet_value] => 3.34
+    [bet_sport] => Hockey
+    [bet_refrenceId] => Laval_Rocket_Rochester_Americans_040220241X2
+    [bet_eventTime] => Feb 4th 2024 at 06:00 AM
+    [bet_line] => 1X2
+    [bet_betType] => 1X2
+)
+Array
+(
+    [user_id] => 1
+    [bet_teams] => Utica Comets vs Toronto Marlies
+    [bet_league] => USA - AHL
+    [bet_id] => 658
+    [bet_agency] => bet365
+    [betAmount] => 24.03
+    [bet_betTeam] => Draw
+    [bet_odds] => 4.2
+    [bet_value] => 7.14
+    [bet_sport] => Hockey
+    [bet_refrenceId] => Utica_Comets_Toronto_Marlies_040220241X2
+    [bet_eventTime] => Feb 4th 2024 at 08:00 AM
+    [bet_line] => 1X2
+    [bet_betType] => 1X2
+)
+Array
+(
+    [user_id] => 1
+    [bet_teams] => Hartford Wolf Pack vs Springfield Thunderbirds
+    [bet_league] => USA - AHL
+    [bet_id] => 825
+    [bet_agency] => bet365
+    [betAmount] => 26
+    [bet_betTeam] => Draw
+    [bet_odds] => 4
+    [bet_value] => 7.24
+    [bet_sport] => Hockey
+    [bet_refrenceId] => Hartford_Wolf_Pack_Springfield_Thunderbirds_040220241X2
+    [bet_eventTime] => Feb 4th 2024 at 10:00 AM
+    [bet_line] => 1X2
+    [bet_betType] => 1X2
+)
+Array
+(
+    [user_id] => 1
+    [bet_teams] => Hershey Bears vs Bridgeport Islanders
+    [bet_league] => USA - AHL
+    [bet_id] => 826
+    [bet_agency] => bet365
+    [betAmount] => 6
+    [bet_betTeam] => Draw
+    [bet_odds] => 4
+    [bet_value] => 1.78
+    [bet_sport] => Hockey
+    [bet_refrenceId] => Hershey_Bears_Bridgeport_Islanders_040220241X2
+    [bet_eventTime] => Feb 4th 2024 at 10:00 AM
+    [bet_line] => 1X2
+    [bet_betType] => 1X2
+)
+Array
+(
+    [user_id] => 1
+    [bet_teams] => Lehigh Valley Phantoms vs Wilkes-Barre/Scranton
+    [bet_league] => USA - AHL
+    [bet_id] => 828
+    [bet_agency] => bet365
+    [betAmount] => 35.58
+    [bet_betTeam] => Draw
+    [bet_odds] => 4.2
+    [bet_value] => 10.24
+    [bet_sport] => Hockey
+    [bet_refrenceId] => Lehigh_Valley_Phantoms_Wilkes-Barre/Scranton_040220241X2
+    [bet_eventTime] => Feb 4th 2024 at 10:05 AM
+    [bet_line] => 1X2
+    [bet_betType] => 1X2
+)
+Array
+(
+    [user_id] => 1
+    [bet_teams] => San Diego Gulls vs Colorado Eagles
+    [bet_league] => USA - AHL
+    [bet_id] => 833
+    [bet_agency] => bet365
+    [betAmount] => 28.09
+    [bet_betTeam] => Draw
+    [bet_odds] => 4.2
+    [bet_value] => 8.25
+    [bet_sport] => Hockey
+    [bet_refrenceId] => San_Diego_Gulls_Colorado_Eagles_040220241X2
+    [bet_eventTime] => Feb 4th 2024 at 12:00 PM
+    [bet_line] => 1X2
+    [bet_betType] => 1X2
+)
+Array
+(
+    [user_id] => 1
+    [bet_teams] => Texas Stars vs Bakersfield Condors
+    [bet_league] => USA - AHL
+    [bet_id] => 830
+    [bet_agency] => bet365
+    [betAmount] => 27.04
+    [bet_betTeam] => Draw
+    [bet_odds] => 4.2
+    [bet_value] => 7.97
+    [bet_sport] => Hockey
+    [bet_refrenceId] => Texas_Stars_Bakersfield_Condors_040220241X2
+    [bet_eventTime] => Feb 4th 2024 at 11:00 AM
+    [bet_line] => 1X2
+    [bet_betType] => 1X2
+)
+Array
+(
+    [user_id] => 1
+    [bet_teams] => North Texas vs South Florida
+    [bet_league] => USA - NCAA
+    [bet_id] => 807
+    [bet_agency] => bet365
+    [betAmount] => 28.79
+    [bet_betTeam] => South Florida
+    [bet_odds] => 3.35
+    [bet_value] => 6.35
+    [bet_sport] => Basketball
+    [bet_refrenceId] => North_Texas_South_Florida_04022024Home_Away
+    [bet_eventTime] => Feb 4th 2024 at 09:00 AM
+    [bet_line] => Home_Away
+    [bet_betType] => Home_Away
+)
+Array
+(
+    [user_id] => 1
+    [bet_teams] => Abbotsford Canucks vs San Jose Barracuda
+    [bet_league] => USA - AHL
+    [bet_id] => 834
+    [bet_agency] => bet365
+    [betAmount] => 19.17
+    [bet_betTeam] => Draw
+    [bet_odds] => 4.2
+    [bet_value] => 5.79
+    [bet_sport] => Hockey
+    [bet_refrenceId] => Abbotsford_Canucks_San_Jose_Barracuda_040220241X2
+    [bet_eventTime] => Feb 4th 2024 at 01:00 PM
+    [bet_line] => 1X2
+    [bet_betType] => 1X2
+)
+Array
+(
+    [user_id] => 1
+    [bet_teams] => Rockford IceHogs vs Manitoba Moose
+    [bet_league] => USA - AHL
+    [bet_id] => 829
+    [bet_agency] => bet365
+    [betAmount] => 16.53
+    [bet_betTeam] => Draw
+    [bet_odds] => 4
+    [bet_value] => 4.71
+    [bet_sport] => Hockey
+    [bet_refrenceId] => Rockford_IceHogs_Manitoba_Moose_040220241X2
+    [bet_eventTime] => Feb 4th 2024 at 11:00 AM
+    [bet_line] => 1X2
+    [bet_betType] => 1X2
+)
+Array
+(
+    [user_id] => 1
+    [bet_teams] => San Antonio Spurs vs Cleveland Cavaliers
+    [bet_league] => USA - NBA
+    [bet_id] => 815
+    [bet_agency] => bet365
+    [betAmount] => 11.62
+    [bet_betTeam] => San Antonio Spurs
+    [bet_odds] => 4.75
+    [bet_value] => 4.17
+    [bet_sport] => Basketball
+    [bet_refrenceId] => San_Antonio_Spurs_Cleveland_Cavaliers_04022024Home_Away
+    [bet_eventTime] => Feb 4th 2024 at 11:30 AM
+    [bet_line] => Home_Away
+    [bet_betType] => Home_Away
+)
+Array
+(
+    [user_id] => 1
+    [bet_teams] => UMass vs George Mason
+    [bet_league] => USA - NCAA
+    [bet_id] => 713
+    [bet_agency] => bet365
+    [betAmount] => 56.78
+    [bet_betTeam] => UMass
+    [bet_odds] => 1.59
+    [bet_value] => 3.25
+    [bet_sport] => Basketball
+    [bet_refrenceId] => UMass_George_Mason_04022024Home_Away
+    [bet_eventTime] => Feb 4th 2024 at 03:00 AM
+    [bet_line] => Home_Away
+    [bet_betType] => Home_Away
+)
+Array
+(
+    [user_id] => 1
+    [bet_teams] => Hofstra vs Towson
+    [bet_league] => USA - NCAA
+    [bet_id] => 805
+    [bet_agency] => bet365
+    [betAmount] => 47.6
+    [bet_betTeam] => Hofstra
+    [bet_odds] => 1.67
+    [bet_value] => 3.09
+    [bet_sport] => Basketball
+    [bet_refrenceId] => Hofstra_Towson_04022024Home_Away
+    [bet_eventTime] => Feb 4th 2024 at 09:00 AM
+    [bet_line] => Home_Away
+    [bet_betType] => Home_Away
+)
+Array
+(
+    [user_id] => 1
+    [bet_teams] => VCU Rams vs Richmond
+    [bet_league] => USA - NCAA
+    [bet_id] => 777
+    [bet_agency] => bet365
+    [betAmount] => 20.84
+    [bet_betTeam] => Richmond
+    [bet_odds] => 2.45
+    [bet_value] => 2.94
+    [bet_sport] => Basketball
+    [bet_refrenceId] => VCU_Rams_Richmond_04022024Home_Away
+    [bet_eventTime] => Feb 4th 2024 at 07:00 AM
+    [bet_line] => Home_Away
+    [bet_betType] => Home_Away
+)
+Array
+(
+    [user_id] => 1
+    [bet_teams] => Cal Poly vs UC Davis
+    [bet_league] => USA - NCAA
+    [bet_id] => 803
+    [bet_agency] => bet365
+    [betAmount] => 7.06
+    [bet_betTeam] => Cal Poly
+    [bet_odds] => 4.75
+    [bet_value] => 2.59
+    [bet_sport] => Basketball
+    [bet_refrenceId] => Cal_Poly_UC_Davis_04022024Home_Away
+    [bet_eventTime] => Feb 4th 2024 at 09:00 AM
+    [bet_line] => Home_Away
+    [bet_betType] => Home_Away
+)
+Array
+(
+    [user_id] => 1
+    [bet_teams] => Henderson Silver Knights vs Iowa Wild
+    [bet_league] => USA - AHL
+    [bet_id] => 835
+    [bet_agency] => bet365
+    [betAmount] => 8.8
+    [bet_betTeam] => Draw
+    [bet_odds] => 4
+    [bet_value] => 2.56
+    [bet_sport] => Hockey
+    [bet_refrenceId] => Henderson_Silver_Knights_Iowa_Wild_040220241X2
+    [bet_eventTime] => Feb 4th 2024 at 01:00 PM
+    [bet_line] => 1X2
+    [bet_betType] => 1X2
+)
+Array
+(
+    [user_id] => 1
+    [bet_teams] => Eastern Illinois vs UALR
+    [bet_league] => USA - NCAA
+    [bet_id] => 781
+    [bet_agency] => bet365
+    [betAmount] => 19.9
+    [bet_betTeam] => Eastern Illinois
+    [bet_odds] => 2.2
+    [bet_value] => 2.33
+    [bet_sport] => Basketball
+    [bet_refrenceId] => Eastern_Illinois_UALR_04022024Home_Away
+    [bet_eventTime] => Feb 4th 2024 at 07:30 AM
+    [bet_line] => Home_Away
+    [bet_betType] => Home_Away
+)
+Array
+(
+    [user_id] => 1
+    [bet_teams] => Ontario Reign vs Calgary Wranglers
+    [bet_league] => USA - AHL
+    [bet_id] => 832
+    [bet_agency] => bet365
+    [betAmount] => 15.92
+    [bet_betTeam] => Ontario Reign
+    [bet_odds] => 2.38
+    [bet_value] => 2.15
+    [bet_sport] => Hockey
+    [bet_refrenceId] => Ontario_Reign_Calgary_Wranglers_040220241X2
+    [bet_eventTime] => Feb 4th 2024 at 12:00 PM
+    [bet_line] => 1X2
+    [bet_betType] => 1X2
+)
+Array
+(
+    [user_id] => 1
+    [bet_teams] => Tarleton vs Stephen F. Austin
+    [bet_league] => USA - NCAA
+    [bet_id] => 794
+    [bet_agency] => bet365
+    [betAmount] => 24.01
+    [bet_betTeam] => Stephen F. Austin
+    [bet_odds] => 1.91
+    [bet_value] => 2.14
+    [bet_sport] => Basketball
+    [bet_refrenceId] => Tarleton_Stephen_F._Austin_04022024Home_Away
+    [bet_eventTime] => Feb 4th 2024 at 08:00 AM
+    [bet_line] => Home_Away
+    [bet_betType] => Home_Away
+)
+Array
+(
+    [user_id] => 1
+    [bet_teams] => Georgia State vs Troy
+    [bet_league] => USA - NCAA
+    [bet_id] => 756
+    [bet_agency] => bet365
+    [betAmount] => 15.49
+    [bet_betTeam] => Georgia State
+    [bet_odds] => 2.4
+    [bet_value] => 2.13
+    [bet_sport] => Basketball
+    [bet_refrenceId] => Georgia_State_Troy_04022024Home_Away
+    [bet_eventTime] => Feb 4th 2024 at 07:00 AM
+    [bet_line] => Home_Away
+    [bet_betType] => Home_Away
+)
+Array
+(
+    [user_id] => 1
+    [bet_teams] => Charlotte vs East Carolina
+    [bet_league] => USA - NCAA
+    [bet_id] => 723
+    [bet_agency] => bet365
+    [betAmount] => 8.38
+    [bet_betTeam] => East Carolina
+    [bet_odds] => 3.5
+    [bet_value] => 2.04
+    [bet_sport] => Basketball
+    [bet_refrenceId] => Charlotte_East_Carolina_04022024Home_Away
+    [bet_eventTime] => Feb 4th 2024 at 05:00 AM
+    [bet_line] => Home_Away
+    [bet_betType] => Home_Away
+)
+Array
+(
+    [user_id] => 1
+    [bet_teams] => Delaware vs Monmouth
+    [bet_league] => USA - NCAA
+    [bet_id] => 725
+    [bet_agency] => bet365
+    [betAmount] => 8.38
+    [bet_betTeam] => Monmouth
+    [bet_odds] => 3.5
+    [bet_value] => 2.04
+    [bet_sport] => Basketball
+    [bet_refrenceId] => Delaware_Monmouth_04022024Home_Away
+    [bet_eventTime] => Feb 4th 2024 at 05:00 AM
+    [bet_line] => Home_Away
+    [bet_betType] => Home_Away
+)
+Array
+(
+    [user_id] => 1
+    [bet_teams] => Charleston vs N. Carolina A&amp;T
+    [bet_league] => USA - NCAA
+    [bet_id] => 955
+    [bet_agency] => bet365
+    [betAmount] => 16.43
+    [bet_betTeam] => N. Carolina A&amp;T
+    [bet_odds] => 15
+    [bet_value] => 18.67
+    [bet_sport] => Basketball
+    [bet_refrenceId] => Charleston_N._Carolina_A&T_09022024Home_Away
+    [bet_eventTime] => Feb 9th 2024 at 11:00 AM
+    [bet_line] => Home_Away
+    [bet_betType] => Home_Away
+)
+Array
+(
+    [user_id] => 1
+    [bet_teams] => Lehigh Valley Phantoms vs Wilkes-Barre/Scranton
+    [bet_league] => USA - AHL
+    [bet_id] => 998
+    [bet_agency] => bet365
+    [betAmount] => 37.94
+    [bet_betTeam] => Draw
+    [bet_odds] => 4.2
+    [bet_value] => 10.82
+    [bet_sport] => Hockey
+    [bet_refrenceId] => Lehigh_Valley_Phantoms_Wilkes-Barre/Scranton_100220241X2
+    [bet_eventTime] => Feb 10th 2024 at 10:05 AM
+    [bet_line] => 1X2
+    [bet_betType] => 1X2
+)
+Array
+(
+    [user_id] => 1
+    [bet_teams] => Wright State vs Detroit
+    [bet_league] => USA - NCAA
+    [bet_id] => 952
+    [bet_agency] => bet365
+    [betAmount] => 9.29
+    [bet_betTeam] => Detroit
+    [bet_odds] => 13
+    [bet_value] => 10.08
+    [bet_sport] => Basketball
+    [bet_refrenceId] => Wright_State_Detroit_09022024Home_Away
+    [bet_eventTime] => Feb 9th 2024 at 10:00 AM
+    [bet_line] => Home_Away
+    [bet_betType] => Home_Away
+)
+Array
+(
+    [user_id] => 1
+    [bet_teams] => Calgary Wranglers vs San Diego Gulls
+    [bet_league] => USA - AHL
+    [bet_id] => 992
+    [bet_agency] => bet365
+    [betAmount] => 32.29
+    [bet_betTeam] => Draw
+    [bet_odds] => 4.2
+    [bet_value] => 9.38
+    [bet_sport] => Hockey
+    [bet_refrenceId] => Calgary_Wranglers_San_Diego_Gulls_100220241X2
+    [bet_eventTime] => Feb 10th 2024 at 06:00 AM
+    [bet_line] => 1X2
+    [bet_betType] => 1X2
+)
+Array
+(
+    [user_id] => 1
+    [bet_teams] => Belleville Senators vs Utica Comets
+    [bet_league] => USA - AHL
+    [bet_id] => 993
+    [bet_agency] => bet365
+    [betAmount] => 30.19
+    [bet_betTeam] => Draw
+    [bet_odds] => 4.2
+    [bet_value] => 8.81
+    [bet_sport] => Hockey
+    [bet_refrenceId] => Belleville_Senators_Utica_Comets_100220241X2
+    [bet_eventTime] => Feb 10th 2024 at 10:00 AM
+    [bet_line] => 1X2
+    [bet_betType] => 1X2
+)
+Array
+(
+    [user_id] => 1
+    [bet_teams] => Rochester Americans vs Syracuse Crunch
+    [bet_league] => USA - AHL
+    [bet_id] => 1000
+    [bet_agency] => bet365
+    [betAmount] => 27.04
+    [bet_betTeam] => Draw
+    [bet_odds] => 4.2
+    [bet_value] => 7.97
+    [bet_sport] => Hockey
+    [bet_refrenceId] => Rochester_Americans_Syracuse_Crunch_100220241X2
+    [bet_eventTime] => Feb 10th 2024 at 10:05 AM
+    [bet_line] => 1X2
+    [bet_betType] => 1X2
+)
+Array
+(
+    [user_id] => 1
+    [bet_teams] => Rockford IceHogs vs Texas Stars
+    [bet_league] => USA - AHL
+    [bet_id] => 1003
+    [bet_agency] => bet365
+    [betAmount] => 25.07
+    [bet_betTeam] => Draw
+    [bet_odds] => 4.2
+    [bet_value] => 7.42
+    [bet_sport] => Hockey
+    [bet_refrenceId] => Rockford_IceHogs_Texas_Stars_100220241X2
+    [bet_eventTime] => Feb 10th 2024 at 11:00 AM
+    [bet_line] => 1X2
+    [bet_betType] => 1X2
+)
+Array
+(
+    [user_id] => 1
+    [bet_teams] => Oregon State vs Washington State
+    [bet_league] => USA - NCAA
+    [bet_id] => 979
+    [bet_agency] => bet365
+    [betAmount] => 19.51
+    [bet_betTeam] => Oregon State
+    [bet_odds] => 4.5
+    [bet_value] => 6.38
+    [bet_sport] => Basketball
+    [bet_refrenceId] => Oregon_State_Washington_State_09022024Home_Away
+    [bet_eventTime] => Feb 9th 2024 at 01:00 PM
+    [bet_line] => Home_Away
+    [bet_betType] => Home_Away
+)
+Array
+(
+    [user_id] => 1
+    [bet_teams] => Hartford Wolf Pack vs Bridgeport Islanders
+    [bet_league] => USA - AHL
+    [bet_id] => 996
+    [bet_agency] => bet365
+    [betAmount] => 22.67
+    [bet_betTeam] => Draw
+    [bet_odds] => 4
+    [bet_value] => 6.38
+    [bet_sport] => Hockey
+    [bet_refrenceId] => Hartford_Wolf_Pack_Bridgeport_Islanders_100220241X2
+    [bet_eventTime] => Feb 10th 2024 at 10:00 AM
+    [bet_line] => 1X2
+    [bet_betType] => 1X2
+)
+Array
+(
+    [user_id] => 1
+    [bet_teams] => Milwaukee Admirals vs Chicago Wolves
+    [bet_league] => USA - AHL
+    [bet_id] => 1002
+    [bet_agency] => bet365
+    [betAmount] => 19.17
+    [bet_betTeam] => Draw
+    [bet_odds] => 4.2
+    [bet_value] => 5.79
+    [bet_sport] => Hockey
+    [bet_refrenceId] => Milwaukee_Admirals_Chicago_Wolves_100220241X2
+    [bet_eventTime] => Feb 10th 2024 at 11:00 AM
+    [bet_line] => 1X2
+    [bet_betType] => 1X2
+)
+Array
+(
+    [user_id] => 1
+    [bet_teams] => Grand Rapids Griffins vs Manitoba Moose
+    [bet_league] => USA - AHL
+    [bet_id] => 995
+    [bet_agency] => bet365
+    [betAmount] => 19.6
+    [bet_betTeam] => Draw
+    [bet_odds] => 4
+    [bet_value] => 5.54
+    [bet_sport] => Hockey
+    [bet_refrenceId] => Grand_Rapids_Griffins_Manitoba_Moose_100220241X2
+    [bet_eventTime] => Feb 10th 2024 at 10:00 AM
+    [bet_line] => 1X2
+    [bet_betType] => 1X2
+)
+Array
+(
+    [user_id] => 1
+    [bet_teams] => Cleveland Monsters vs Charlotte Checkers
+    [bet_league] => USA - AHL
+    [bet_id] => 994
+    [bet_agency] => bet365
+    [betAmount] => 18.25
+    [bet_betTeam] => Draw
+    [bet_odds] => 4.2
+    [bet_value] => 5.53
+    [bet_sport] => Hockey
+    [bet_refrenceId] => Cleveland_Monsters_Charlotte_Checkers_100220241X2
+    [bet_eventTime] => Feb 10th 2024 at 10:00 AM
+    [bet_line] => 1X2
+    [bet_betType] => 1X2
+)
+Array
+(
+    [user_id] => 1
+    [bet_teams] => Braunschweig vs Karlsruher SC
+    [bet_league] => Germany - 2.Bundesliga
+    [bet_id] => 1014
+    [bet_agency] => bet365
+    [betAmount] => 19.87
+    [bet_betTeam] => Draw
+    [bet_odds] => 3.8
+    [bet_value] => 5.26
+    [bet_sport] => Football
+    [bet_refrenceId] => Braunschweig_Karlsruher_SC_100220241X2
+    [bet_eventTime] => Feb 10th 2024 at 10:00 PM
+    [bet_line] => 1X2
+    [bet_betType] => 1X2
+)
+Array
+(
+    [user_id] => 1
+    [bet_teams] => Florida Panthers vs Washington Capitals
+    [bet_league] => USA - NHL
+    [bet_id] => 844
+    [bet_agency] => bet365
+    [betAmount] => 72.75
+    [bet_betTeam] => Florida Panthers
+    [bet_odds] => 1.71
+    [bet_value] => 4.91
+    [bet_sport] => Hockey
+    [bet_refrenceId] => Florida_Panthers_Washington_Capitals_090220241X2
+    [bet_eventTime] => Feb 9th 2024 at 10:00 AM
+    [bet_line] => 1X2
+    [bet_betType] => 1X2
+)
+Array
+(
+    [user_id] => 1
+    [bet_teams] => Providence Bruins vs Hershey Bears
+    [bet_league] => USA - AHL
+    [bet_id] => 999
+    [bet_agency] => bet365
+    [betAmount] => 16.53
+    [bet_betTeam] => Draw
+    [bet_odds] => 4
+    [bet_value] => 4.71
+    [bet_sport] => Hockey
+    [bet_refrenceId] => Providence_Bruins_Hershey_Bears_100220241X2
+    [bet_eventTime] => Feb 10th 2024 at 10:05 AM
+    [bet_line] => 1X2
+    [bet_betType] => 1X2
+)
+Array
+(
+    [user_id] => 1
+    [bet_teams] => Colorado vs Arizona State
+    [bet_league] => USA - NCAA
+    [bet_id] => 956
+    [bet_agency] => bet365
+    [betAmount] => 6.52
+    [bet_betTeam] => Arizona State
+    [bet_odds] => 8.5
+    [bet_value] => 4.68
+    [bet_sport] => Basketball
+    [bet_refrenceId] => Colorado_Arizona_State_09022024Home_Away
+    [bet_eventTime] => Feb 9th 2024 at 11:00 AM
+    [bet_line] => Home_Away
+    [bet_betType] => Home_Away
+)
+Array
+(
+    [user_id] => 1
+    [bet_teams] => Toronto Marlies vs Laval Rocket
+    [bet_league] => USA - AHL
+    [bet_id] => 997
+    [bet_agency] => bet365
+    [betAmount] => 14.71
+    [bet_betTeam] => Draw
+    [bet_odds] => 4.2
+    [bet_value] => 4.48
+    [bet_sport] => Hockey
+    [bet_refrenceId] => Toronto_Marlies_Laval_Rocket_100220241X2
+    [bet_eventTime] => Feb 10th 2024 at 10:00 AM
+    [bet_line] => 1X2
+    [bet_betType] => 1X2
+)
+Array
+(
+    [user_id] => 1
+    [bet_teams] => VMI vs Chattanooga Mocs
+    [bet_league] => USA - NCAA
+    [bet_id] => 922
+    [bet_agency] => bet365
+    [betAmount] => 5.16
+    [bet_betTeam] => VMI
+    [bet_odds] => 9
+    [bet_value] => 3.93
+    [bet_sport] => Basketball
+    [bet_refrenceId] => VMI_Chattanooga_Mocs_09022024Home_Away
+    [bet_eventTime] => Feb 9th 2024 at 09:00 AM
+    [bet_line] => Home_Away
+    [bet_betType] => Home_Away
+)
+Array
+(
+    [user_id] => 1
+    [bet_teams] => Boston Bruins vs Vancouver Canucks
+    [bet_league] => USA - NHL
+    [bet_id] => 842
+    [bet_agency] => bet365
+    [betAmount] => 30.7
+    [bet_betTeam] => Boston Bruins
+    [bet_odds] => 2.25
+    [bet_value] => 3.69
+    [bet_sport] => Hockey
+    [bet_refrenceId] => Boston_Bruins_Vancouver_Canucks_090220241X2
+    [bet_eventTime] => Feb 9th 2024 at 10:00 AM
+    [bet_line] => 1X2
+    [bet_betType] => 1X2
+)
+Array
+(
+    [user_id] => 1
+    [bet_teams] => Elon vs Stony Brook
+    [bet_league] => USA - NCAA
+    [bet_id] => 928
+    [bet_agency] => bet365
+    [betAmount] => 20.84
+    [bet_betTeam] => Elon
+    [bet_odds] => 2.45
+    [bet_value] => 2.94
+    [bet_sport] => Basketball
+    [bet_refrenceId] => Elon_Stony_Brook_09022024Home_Away
+    [bet_eventTime] => Feb 9th 2024 at 10:00 AM
+    [bet_line] => Home_Away
+    [bet_betType] => Home_Away
+)
+Array
+(
+    [user_id] => 1
+    [bet_teams] => Arizona Coyotes vs Vegas Golden Knights
+    [bet_league] => USA - NHL
+    [bet_id] => 848
+    [bet_agency] => bet365
+    [betAmount] => 13.39
+    [bet_betTeam] => Arizona Coyotes
+    [bet_odds] => 2.9
+    [bet_value] => 2.47
+    [bet_sport] => Hockey
+    [bet_refrenceId] => Arizona_Coyotes_Vegas_Golden_Knights_090220241X2
+    [bet_eventTime] => Feb 9th 2024 at 12:00 PM
+    [bet_line] => 1X2
+    [bet_betType] => 1X2
+)
+Array
+(
+    [user_id] => 1
+    [bet_teams] => Siena vs Marist
+    [bet_league] => USA - NCAA
+    [bet_id] => 946
+    [bet_agency] => bet365
+    [betAmount] => 15.86
+    [bet_betTeam] => Siena
+    [bet_odds] => 2.55
+    [bet_value] => 2.41
+    [bet_sport] => Basketball
+    [bet_refrenceId] => Siena_Marist_09022024Home_Away
+    [bet_eventTime] => Feb 9th 2024 at 10:00 AM
+    [bet_line] => Home_Away
+    [bet_betType] => Home_Away
+)
+Array
+(
+    [user_id] => 1
+    [bet_teams] => Monmouth vs William &amp; Mary
+    [bet_league] => USA - NCAA
+    [bet_id] => 936
+    [bet_agency] => bet365
+    [betAmount] => 6.01
+    [bet_betTeam] => William &amp; Mary
+    [bet_odds] => 4.5
+    [bet_value] => 2.04
+    [bet_sport] => Basketball
+    [bet_refrenceId] => Monmouth_William_&_Mary_09022024Home_Away
+    [bet_eventTime] => Feb 9th 2024 at 10:00 AM
+    [bet_line] => Home_Away
+    [bet_betType] => Home_Away
+)
